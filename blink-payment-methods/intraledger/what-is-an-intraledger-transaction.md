@@ -1,0 +1,3 @@
+# What is an intraledger transaction?
+
+An intraledger transaction refers to a transaction that occurs within the Blink ecosystem. It allows users to send and receive payments directly to other Blink users without the need to involve external wallets or networks. Intraledger transactions are fast, seamless, and cost-effective, making them an ideal choice for peer-to-peer transactions within the Blink community. Whether you want to send money to a friend, make a purchase from a local merchant, or settle a debt, intraledger transactions provide a convenient and efficient way to transfer funds within the Blink network.

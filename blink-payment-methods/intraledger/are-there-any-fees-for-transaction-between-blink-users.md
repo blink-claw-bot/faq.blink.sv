@@ -1,0 +1,3 @@
+# Are there any fees for transaction between blink users?
+
+No, there are no fees for transactions between Blink users. When you send or receive Bitcoin within the Blink ecosystem, whether it's through on-chain transactions, Lightning Network payments, or LNURL transactions, there are no additional fees imposed by Blink. You can freely send and receive funds between Blink wallets without incurring any charges. This makes Blink an attractive option for users who want to transfer Bitcoin without worrying about transaction fees, enabling seamless and cost-effective peer-to-peer transactions within the Blink community.

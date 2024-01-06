@@ -1,0 +1,3 @@
+# Lightning
+
+Welcome to the Lightning Network section of our Blink Wallet FAQ! Here you'll find answers to all your questions related to the lightning network payment methods available in our wallet. The Lightning Network is a powerful layer-two scaling solution built on top of the Bitcoin network. With lightning-fast transaction speeds, ultra-low fees, and increased privacy, it's no wonder why the Lightning Network is quickly becoming the go-to payment method for Bitcoin users around the world. Blink fully supports lightning transactions by default, making it easier than ever to send and receive Bitcoin payments instantly.
