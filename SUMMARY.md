@@ -76,7 +76,6 @@
   * [How can I add my business to Blink's Merchant Map?](blink-merchant-map/how-can-i-add-my-business-to-blinks-merchant-map.md)
   * [How can I remove my business from Blink's merchant map?](blink-merchant-map/how-can-i-remove-my-business-from-blinks-merchant-map.md)
 * [Blink & Other Wallets](blink-and-other-wallets/README.md)
-  * [Page 2](blink-and-other-wallets/page-2.md)
 * [Blink Circles](blink-circles/README.md)
   * [What is Blink Circles?](blink-circles/what-is-blink-circles.md)
   * [What is Blink "Inner Circles?](blink-circles/what-is-blink-inner-circles.md)
