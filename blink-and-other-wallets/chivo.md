@@ -11,4 +11,4 @@ The Chivo wallet is the official Bitcoin wallet of El Salvador. It is a custodia
 * To use the ATM free of charge with your funds in the Blink wallet use Lightning to transfer your funds to the Chivo wallet and withdraw from the ATM
 
 ## Infographic to receive on Lightning with the Chivo wallet
-![chivo receive on lightning](/.gitbook/assets/chivo_receive_on_lightning.png)
+![Receive on lightning with Chivo](/.gitbook/assets/chivo_receive_on_lightning.png)
