@@ -1,0 +1,78 @@
+name: Combine and deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  combine-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set commit hash and date-time as environment variables
+        run: |
+          echo "CURRENT_DATE=$(date -u +"%Y%m%d-%H%M%S")" >> $GITHUB_ENV
+          echo "COMMIT_HASH=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+
+      - name: Generate combined.md
+        run: ./combine.sh
+
+      - name: Create index.html
+        run: |
+          FILENAME="combined_${CURRENT_DATE}_${COMMIT_HASH}.md"
+          echo '<!DOCTYPE html>' > index.html
+          echo '<html lang="en">' >> index.html
+          echo '<head>' >> index.html
+          echo '    <meta charset="UTF-8">' >> index.html
+          echo '    <meta name="viewport" content="width=device-width, initial-scale=1.0">' >> index.html
+          echo '    <title>Download the combined.md</title>' >> index.html
+          echo '</head>' >> index.html
+          echo '<body>' >> index.html
+          echo '    <h1>Download the combined.md</h1>' >> index.html
+          echo "    <p>Created at: Date: $CURRENT_DATE, Commit hash: $COMMIT_HASH</p>" >> index.html
+          echo "    <a href=\"$FILENAME\" download=\"$FILENAME\">Download $FILENAME</a>" >> index.html
+          echo '</body>' >> index.html
+          echo '</html>' >> index.html
+
+      - name: Move to pages folder
+        run: |
+          FILENAME="combined_${CURRENT_DATE}_${COMMIT_HASH}.md"
+          mkdir -p ./pages
+          mv combined.md ./pages/$FILENAME
+          mv index.html ./pages
+
+      - name: Create Pages artifact
+        run: |
+          tar \
+          --dereference --hard-dereference \
+          --directory "./pages" \
+          -cvf ./artifact.tar \
+          .
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-pages
+          path: ./artifact.tar
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
