@@ -22,6 +22,7 @@
   * [How can I change my transaction limits on my Blink account?](using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account.md)
   * [How do I cash out my Blink funds?](using-blink/how-do-i-cash-out-my-blink-funds.md)
   * [How does Blink's Bitcoin wallet work?](using-blink/how-does-blinks-bitcoin-wallet-work.md)
+  * [Can I pay with a credit or debit card?](using-blink/can-i-pay-with-a-credit-or-debit-card.md)
 * [Blink Payment Methods](blink-payment-methods/README.md)
   * [Intraledger](blink-payment-methods/intraledger/README.md)
     * [What is an intraledger transaction?](blink-payment-methods/intraledger/what-is-an-intraledger-transaction.md)
