@@ -43,8 +43,10 @@ jobs:
           echo '    <title>Download the combined.md</title>' >> index.html
           echo '</head>' >> index.html
           echo '<body>' >> index.html
-          echo '    <h1>Download the combined.md</h1>' >> index.html
           echo "    <p>Created at: Date: $CURRENT_DATE, Commit hash: $COMMIT_HASH</p>" >> index.html
+          echo '    <h1>Download the combined.md</h1>' >> index.html
+          echo "    <a href=\"combined.md\" download=\"combined.md\">Download combined.md</a>" >> index.html
+          echo '    <h1>Download the labeled combined.md</h1>' >> index.html
           echo "    <a href=\"$FILENAME\" download=\"$FILENAME\">Download $FILENAME</a>" >> index.html
           echo '</body>' >> index.html
           echo '</html>' >> index.html
@@ -53,6 +55,7 @@ jobs:
         run: |
           FILENAME="combined_${CURRENT_DATE}_${COMMIT_HASH}.md"
           mkdir -p ./pages
+          cp combined.md ./pages/combined.md
           mv combined.md ./pages/$FILENAME
           mv index.html ./pages
 
