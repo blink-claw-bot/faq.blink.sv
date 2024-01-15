@@ -1,6 +1,6 @@
-# How does Blink's Bitcoin wallet work?
+# How does the Blink wallet work?
 
-Blink's Bitcoin wallet offers a user-friendly and secure platform to manage your Bitcoin funds and perform various types of transactions. Here's a breakdown of what you can do with the wallet:
+The Blink wallet offers a user-friendly and secure platform to manage your Bitcoin funds and perform various types of transactions. Here's a breakdown of what you can do with the wallet:
 
 1. **Store and Use Bitcoin:** You can securely store your Bitcoin in your Blink wallet and use it to make purchases online or offline. Simply scan the recipient's QR code or enter their Bitcoin address to send payments.
 2. **Receive Bitcoin:** Share your wallet address with others to receive Bitcoin. When someone sends you Bitcoin, it will appear in your wallet's balance, ready to be used or saved.
