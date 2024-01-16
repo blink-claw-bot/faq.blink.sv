@@ -90,3 +90,4 @@
   * [Can I move my Blink funds to my own custody?](custody-and-security/can-i-move-my-blink-funds-to-my-own-custody.md)
 * [Integrations](integrations/README.md)
   * [Connect to the Alby Browser extension on Android](integrations/connect-to-the-alby-browser-extension-on-android.md)
+* [Connect to BTCPay Server](connect-to-btcpay-server.md)
