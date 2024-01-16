@@ -8,12 +8,14 @@ Currently Firefox mobile supports add-ons only on Android. You can take similar 
    &#x20;![](<../.gitbook/assets/01\_alby\_screenshot (1).png>)
 3. Tap \`Find more add-ons\` \
    ![](../.gitbook/assets/02\_alby\_screenshot.png)
-4. Type \`Alby\` to the search box to find the extension![](../.gitbook/assets/04\_alby\_screenshot.png)
+4. Type \`Alby\` to the search box to find the extension\
+   ![](../.gitbook/assets/04\_alby\_screenshot.png)
 5. Add the extension\
    ![](../.gitbook/assets/05\_alby\_screenshot.png)
 6. Set  a passcode\
    ![](../.gitbook/assets/07\_alby\_screenshot.png)
-7. Choose \`Connect\` to Bring Your Own Wallet![](../.gitbook/assets/08\_alby\_screenshot.png)
+7. Choose \`Connect\` to Bring Your Own Wallet\
+   ![](../.gitbook/assets/08\_alby\_screenshot.png)
 8. Scroll down to Blink Wallet\
    ![](../.gitbook/assets/09\_alby\_screenshot.png)
 9. Follow the instruction on screen - get an API key in a new tab or window. Find more details about the Dashboard and PAI keys [here](https://dev.blink.sv/api/auth).\
