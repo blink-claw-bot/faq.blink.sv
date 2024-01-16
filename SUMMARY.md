@@ -23,6 +23,7 @@
   * [How do I cash out my Blink funds?](using-blink/how-do-i-cash-out-my-blink-funds.md)
   * [How does the Blink wallet work?](using-blink/how-does-blinks-bitcoin-wallet-work.md)
   * [Can I pay with a credit or debit card?](using-blink/can-i-pay-with-a-credit-or-debit-card.md)
+  * [What options there are if the Blink app is not compatible with my phone?](using-blink/what-options-there-are-if-the-blink-app-is-not-compatible-with-my-phone.md)
 * [Blink Payment Methods](blink-payment-methods/README.md)
   * [Intraledger](blink-payment-methods/intraledger/README.md)
     * [What is an intraledger transaction?](blink-payment-methods/intraledger/what-is-an-intraledger-transaction.md)
@@ -87,3 +88,5 @@
   * [How is my money stored in Blink?](custody-and-security/how-is-my-money-stored-in-blink.md)
   * [What is a Multisignature Wallet?](custody-and-security/what-is-a-multisignature-wallet.md)
   * [Can I move my Blink funds to my own custody?](custody-and-security/can-i-move-my-blink-funds-to-my-own-custody.md)
+* [Integrations](integrations/README.md)
+  * [Connect to the Alby Browser extension on Android](integrations/connect-to-the-alby-browser-extension-on-android.md)
