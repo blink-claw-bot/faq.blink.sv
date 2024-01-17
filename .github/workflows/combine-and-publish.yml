@@ -45,6 +45,7 @@ jobs:
           echo '<body>' >> index.html
           echo "    <p>Created at: Date: $CURRENT_DATE, Commit hash: $COMMIT_HASH</p>" >> index.html
           echo "    <a href=\"combined.md\" download=\"combined.md\">Download the combined.md</a>" >> index.html
+          echo "    <br>" >> index.html
           echo "    <a href=\"$FILENAME\" download=\"$FILENAME\">Download the labeled $FILENAME</a>" >> index.html
           echo '</body>' >> index.html
           echo '</html>' >> index.html
