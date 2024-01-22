@@ -1,5 +1,5 @@
-# Lightning Address
+# Lightning Address and Paycode
 
-Lightning Address is based on LNURL, a payment protocol that provides human-readable addresses that look just like an email address and that you can send Lightning transactions to.&#x20;
+Lightning Address provides human-readable addresses that look just like an email address and that you can send Lightning transactions to.
 
-In this section of our FAQ, we will cover all questions related to Lightning Address and LNURL payments, including how to use them, their benefits, and any troubleshooting tips you may need.
+In this section of our FAQ, we will cover all questions related to Lightning Address and Paycode payments, including how to use them, their benefits, and any troubleshooting tips you may need.

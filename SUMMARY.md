@@ -45,7 +45,7 @@
     * [How do I send bitcoin payments using the Lightning Network with Blink?](blink-payment-methods/lightning/how-do-i-send-bitcoin-payments-using-the-lightning-network-with-blink.md)
     * [How do I receive bitcoin payments using the Lightning Network with Blink?](blink-payment-methods/lightning/how-do-i-receive-bitcoin-payments-using-the-lightning-network-with-blink.md)
     * [What should I do if my Lightning transaction fails while trying to pay someone?](blink-payment-methods/lightning/what-should-i-do-if-my-lightning-transaction-fails-while-trying-to-pay-someone.md)
-  * [Lightning Address](blink-payment-methods/lightning-address/README.md)
+  * [Lightning Address and Paycode](blink-payment-methods/lightning-address/README.md)
     * [Can someone steal my money if I give them my Lightning Address?](blink-payment-methods/lightning-address/can-someone-steal-my-money-if-i-give-them-my-lightning-address.md)
     * [What is a Lightning Address, and what does it look like?](blink-payment-methods/lightning-address/what-is-a-lightning-address-and-what-does-it-look-like.md)
     * [Do all wallets support Lightning Addresses?](blink-payment-methods/lightning-address/do-all-wallets-support-lightning-addresses.md)
