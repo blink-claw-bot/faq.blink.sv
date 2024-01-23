@@ -26,6 +26,7 @@
   * [Can I pay with a credit or debit card?](using-blink/can-i-pay-with-a-credit-or-debit-card.md)
   * [What options there are if the Blink app is not compatible with my phone?](using-blink/what-options-there-are-if-the-blink-app-is-not-compatible-with-my-phone.md)
   * [How to obtain a Proof of Payment from Blink?](using-blink/how-to-obtain-a-proof-of-payment-from-blink.md)
+  * [How to convert between BTC and USD (Stablesats)?](using-blink/how-to-convert-between-btc-and-usd-stablesats.md)
 * [Blink Payment Methods](blink-payment-methods/README.md)
   * [Intraledger](blink-payment-methods/intraledger/README.md)
     * [What is an intraledger transaction?](blink-payment-methods/intraledger/what-is-an-intraledger-transaction.md)
