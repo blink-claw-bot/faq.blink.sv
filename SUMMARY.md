@@ -3,6 +3,7 @@
 * [What is Blink?](README.md)
 * [Creating a Blink Account](creating-a-blink-account/README.md)
   * [Where can I download Blink?](creating-a-blink-account/where-can-i-download-blink.md)
+  * [How to install the APK from GitHub](creating-a-blink-account/how-to-install-the-apk-from-github.md)
   * [Which countries are unable to download and activate Blink?](creating-a-blink-account/which-countries-are-unable-to-download-and-activate-blink.md)
   * [How do I create an account with Blink?](creating-a-blink-account/how-do-i-create-an-account-with-blink.md)
   * [What information do I need to provide to register to Blink?](creating-a-blink-account/what-information-do-i-need-to-provide-to-register-to-blink.md)
