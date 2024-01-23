@@ -1,7 +1,7 @@
 # Connect to the Alby Browser extension on Android
 
-Currently Firefox mobile supports add-ons only on Android. You can take similar steps on a desktop as well using Firefox, Chrome or a compatible browser.\
-\
+Currently Firefox mobile supports add-ons only on Android. You can take similar steps on a desktop as well using Firefox, Chrome or a compatible browser.
+
 1. [Download Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) on your Android phone
 2. Open Firefox and choose `Add-ons`  from the menu on the upper right\
    ![](<../.gitbook/assets/01\_alby\_screenshot.png>)
