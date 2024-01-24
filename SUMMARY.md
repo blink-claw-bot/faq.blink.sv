@@ -99,6 +99,4 @@
 * [Integrations](integrations/README.md)
   * [Connect to the Alby Browser extension on Android](integrations/connect-to-the-alby-browser-extension-on-android.md)
   * [Connect to BTCPay Server](integrations/connect-to-btcpay-server.md)
-* [Demo videos](demo-videos/README.md)
-  * [Videos in English](demo-videos/videos-in-english.md)
-  * [Videos in Spanish](demo-videos/videos-in-spanish.md)
+* [Demo videos](demo-videos.md)
