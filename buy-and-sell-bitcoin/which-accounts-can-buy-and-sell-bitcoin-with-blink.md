@@ -10,4 +10,4 @@ The extension to more countries (focusing first to Central America) is planned s
 
 ## Account Level
 
-To interact with the traditional banking system there is increased verification need so to be to Buy and Sell your Blink account needs to be upgraded to Level 2. See how to upgrade at [faq.blink.sv/using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account](https://faq.blink.sv/using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account)
+To interact with the traditional banking system there is increased verification need so to Buy and Sell your Blink account needs to be upgraded to Level 2. See how to upgrade at [faq.blink.sv/using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account](https://faq.blink.sv/using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account)
