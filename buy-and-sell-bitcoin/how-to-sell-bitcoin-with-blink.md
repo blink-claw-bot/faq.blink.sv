@@ -14,4 +14,4 @@
     ![](../.gitbook/assets/blink_fiat_app_screenshot09.jpg)
 9.  Choose if you would like to pay from your BTC or USD (Stablesats) balance and tap `Next` to pay\
     ![](../.gitbook/assets/blink_fiat_app_screenshot10.jpg)
-10. The order will be processed automatically, but it can take sisgnificant time for the money to reach your bank account. Please monitor your email address for updates and contact  [support@blink.sv](mailto:support@blink.sv) if you have any concerns.
+10. The order will be processed automatically, but it can take between 1 hour to 1 day for the money to reach your bank account. Please monitor your email address for updates and contact [support@blink.sv](mailto:support@blink.sv) if you have any concerns.

@@ -12,5 +12,4 @@
     ![](../.gitbook/assets/blink_fiat_app_screenshot05.jpg)
 9.  The bank transfer details will be presented on this screen (always check the exact details - redacted here)\
     ![](../.gitbook/assets/blink_fiat_app_screenshot06.jpg)
-10. The order will be processed automatically once Blink receives the money in the bank, but can send an email to [support@blink.sv](mailto:support@blink.sv) when you have initiated the transfer to speed up the process.
-11. Once the order is processed you will receive a notification and the bitcoin will become available in your Blink wallet.
+10. The payment initiated from your bank account may take between 1 hour and 1 day to be processed and arrive on the bank account of Blink. Once the order is complete you will receive a notification and the bitcoin will become available in your Blink wallet. Please monitor your email address for updates and contact [support@blink.sv](mailto:support@blink.sv) if you have any concerns.
