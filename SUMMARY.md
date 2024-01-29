@@ -81,6 +81,7 @@
   * [What are the details of Blink's bank account?](buy-and-sell-bitcoin/what-are-the-details-of-blinks-bank-account.md)
   * [How to pay Blink from Banco Agricola?](buy-and-sell-bitcoin/how-to-pay-blink-from-banco-agricola.md)
   * [How to pay Blink from Banco Cuscatlan?](buy-and-sell-bitcoin/how-to-pay-blink-from-banco-cuscatlan.md)
+  * [How to use a website to buy and sell bitcoin with Blink?](buy-and-sell-bitcoin/how-to-use-a-website-to-buy-and-sell-bitcoin-with-blink.md)
 * [Earn Section](earn-section/README.md)
   * [How does the earn section work?](earn-section/how-does-the-earn-section-work.md)
 * [Blink Merchant Map](blink-merchant-map/README.md)

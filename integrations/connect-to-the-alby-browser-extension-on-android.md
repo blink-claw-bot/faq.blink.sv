@@ -4,7 +4,7 @@ Currently Firefox mobile supports add-ons only on Android. You can take similar 
 
 1. [Download Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) on your Android phone
 2. Open Firefox and choose `Add-ons` from the menu on the upper right\
-   ![](<../.gitbook/assets/alby\_screenshot01 (1).png>)
+   ![](broken-reference)
 3. Tap `Find more add-ons` on the bottom\
    ![](../.gitbook/assets/alby\_screenshot02.png)
 4. Type `Alby` to the search box to find the extension\
