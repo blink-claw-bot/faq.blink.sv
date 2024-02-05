@@ -1,6 +1,13 @@
-# How can I change my transaction limits on my Blink account?
+# Upgrading to a level 2 account
 
-You can change your transaction limits by upgrading your account by providing additional data like your name, a government issued ID and a selfie. Upgrading your account will increase your limits and give you additional functionality such as [transfer to bank accounts in selected countries](https://faq.blink.sv/using-blink/how-do-i-cash-out-my-blink-funds).
+Upgrading your account to level 2 will come with benefits:
+
+* increased transaction limits&#x20;
+* access to [transfer to bank accounts in selected countries](https://faq.blink.sv/using-blink/how-do-i-cash-out-my-blink-funds)
+* possible recovery through the support if you lose access to your account\
+
+
+To complete the process will need to provide additional data to be verified: your name, a government issued ID and a selfie.&#x20;
 
 Follow these steps to upgrade your account:
 
@@ -9,8 +16,6 @@ Follow these steps to upgrade your account:
 3. Select the "Upgrade your account" option
 4. Follow the instructions guiding you through the upgrade process
 
-If you need to change or increase the transaction limits on your Blink account, please contact our support team through your preferred channel. Our team will guide you through the process and help you with the necessary steps to request a change in your account limits.
-
-With any questions or concens regarding the account upgrade process, you can contact us through email at [support@blink.sv](mailto:support@blink.sv) or via WhatsApp at +503 6983-5117.
+With any questions or concerns regarding the account upgrade process, you can contact us through email at [support@blink.sv](mailto:support@blink.sv) or via WhatsApp at +503 6983-5117.
 
 We are always ready to assist you and answer any questions you may have.
