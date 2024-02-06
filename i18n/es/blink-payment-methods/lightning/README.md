@@ -1,0 +1,3 @@
+# Lightning 
+
+Bienvenido a la sección de la Red Lightning de nuestras Preguntas Frecuentes de la Billetera Blink. Aquí encontrarás respuestas a todas tus preguntas relacionadas con los métodos de pago de la red lightning disponibles en nuestra billetera. La Red Lightning es una poderosa solución de escalabilidad de capa dos construida sobre la red Bitcoin. Con velocidades de transacción ultrarrápidas, tarifas ultra bajas y mayor privacidad, no es de extrañar por qué la Red Lightning se está convirtiendo rápidamente en el método de pago preferido para los usuarios de Bitcoin en todo el mundo. Blink admite completamente las transacciones lightning de forma predeterminada, lo que facilita más que nunca el envío y recepción de pagos de Bitcoin al instante.

@@ -1,0 +1,3 @@
+# Mapa de comerciantes de Blink
+
+Bienvenido a la sección del Mapa de Comerciantes de las Preguntas Frecuentes de Blink. En esta sección, cubriremos preguntas comunes relacionadas con la función del Mapa de Comerciantes disponible en la aplicación de Blink. El Mapa de Comerciantes te permite encontrar fácilmente comerciantes en tu área que aceptan Bitcoin como método de pago, facilitando el uso de tus Bitcoin en transacciones diarias. Ya sea que estés buscando una cafetería o una tienda de ropa, el Mapa de Comerciantes tiene todo cubierto. Vamos a responder algunas preguntas frecuentes sobre esta función.

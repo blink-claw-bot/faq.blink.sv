@@ -1,0 +1,12 @@
+# ¿Cuáles son los riesgos asociados con Stablesats?
+
+Stablesats es una característica prometedora que permite a los usuarios de Lightning mantener, enviar y recibir dólares sin la necesidad de stablecoins o integración con moneda fiduciaria. Sin embargo, como con cualquier producto financiero, existen riesgos asociados que los usuarios deben tener en cuenta.
+
+Uno de los riesgos de usar Stablesats es el riesgo de contraparte con el intercambio. Si el intercambio quiebra, es posible que el colateral no se pueda recuperar. Este riesgo es inherente a cualquier producto que involucre a un custodio de terceros, por lo que es importante elegir un intercambio de buena reputación y realizar una debida diligencia antes de utilizar cualquier producto financiero.
+
+Otro riesgo a considerar es la función de auto-deleveraging de los intercambios de derivados para contratos perpetuos. La posición podría cerrarse a pesar de estar en beneficio, lo que puede llevar a una situación de cobertura insuficiente. Este riesgo es específico del uso de productos derivados, y los usuarios deben ser conscientes del potencial de auto-deleveraging al usar Stablesats.
+
+El financiamiento es otro riesgo potencial asociado con Stablesats. Históricamente, ha habido más posiciones largas que cortas en los intercambios de derivados, lo que significa que el financiamiento genera ingresos para las posiciones cortas. Sin embargo, esto no siempre puede ser el caso y el financiamiento podría volverse negativo durante un período prolongado de tiempo. Los usuarios deben ser conscientes de este riesgo y monitorear las tasas de financiamiento al usar Stablesats.
+
+Es importante tener en cuenta que Stablesats es una característica relativamente nueva, y sus riesgos y beneficios aún están siendo estudiados y evaluados por la comunidad de Bitcoin. Para obtener más información sobre Stablesats y sus riesgos asociados, los usuarios pueden ver el [repositorio de GitHub](https://github.com/GaloyMoney/dealer), leer recursos relevantes como [Luna Bros, Inc.](https://blog.bitmex.com/luna-brothers-inc/) (sección de Stablecoins respaldadas por Bitcoin) y opiniones de [Kollider,](https://twitter.com/kollider\_trade/status/1496507594214723590), y consultar con profesionales financieros. Al comprender los riesgos y beneficios de Stablesats, los usuarios pueden tomar decisiones informadas sobre si utilizar esta función para sus necesidades financieras. 
+

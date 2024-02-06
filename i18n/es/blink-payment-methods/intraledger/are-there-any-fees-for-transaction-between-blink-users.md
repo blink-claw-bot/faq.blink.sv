@@ -1,0 +1,3 @@
+# ¿Hay alguna tarifa por las transacciones entre usuarios de blink?
+
+No, no hay tarifas por las transacciones entre usuarios de Blink. Cuando envías o recibes Bitcoin dentro del ecosistema de Blink, ya sea a través de transacciones en cadena, pagos de la Red Lightning o transacciones LNURL, no hay tarifas adicionales impuestas por Blink. Puedes enviar y recibir fondos libremente entre las carteras de Blink sin incurrir en ningún cargo. Esto hace que Blink sea una opción atractiva para los usuarios que desean transferir Bitcoin sin preocuparse por las tarifas de transacción, permitiendo transacciones entre pares sin problemas y rentables dentro de la comunidad de Blink.

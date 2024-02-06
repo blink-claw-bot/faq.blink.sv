@@ -1,0 +1,5 @@
+# ¿Qué es Stablesats?
+
+**Stablesats** es una característica que tiene como objetivo abordar el problema de la volatilidad a corto plazo en la economía de Bitcoin. Cuando la tasa de cambio de Bitcoin cae, puede afectar el poder adquisitivo de los sats, lo que dificulta que las personas paguen bienes y servicios con precios en dólares. Esto puede llevar a que los comerciantes y consumidores vendan frecuentemente su Bitcoin por dólares para asegurarse de poder cumplir con sus obligaciones financieras.
+
+Para superar este problema, Stablesats ofrece una cuenta en USD que los usuarios pueden utilizar para mantener saldos "equivalentes al dólar" en su billetera Lightning. Esto ayuda a proteger a los usuarios de las fluctuaciones en la tasa de cambio de Bitcoin, permitiéndoles realizar transacciones con mayor confianza y comodidad. Stablesats tiene como objetivo facilitar el uso de Bitcoin como moneda para transacciones cotidianas, sin tener que preocuparse por la volatilidad a corto plazo del mercado.
