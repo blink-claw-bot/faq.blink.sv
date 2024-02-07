@@ -1,80 +1,80 @@
 # Tabla de contenidos
 
-* ¿Qué es Blink?
-* Crear una cuenta de Blink
-  * ¿Dónde puedo descargar Blink?
-  * Cómo instalar el APK desde GitHub (creating-a-blink-account/how-to-install-the-apk-from-github.md)
-  * ¿Qué países no pueden descargar y activar Blink?
-  * ¿Cómo creo una cuenta con Blink?
-  * ¿Qué información necesito proporcionar para registrarme en Blink?
-  * ¿Qué debo hacer si no recibo un SMS?
-  * ¿Cómo puedo contactar al equipo de soporte de Blink?
-  * ¿Es posible cambiar el número de teléfono asociado a un nombre de usuario después de crear una cuenta de Blink?
-  * ¿Puedo cambiar mi nombre de usuario después de crear mi cuenta de Blink?
-  * ¿Por qué no puedo completar el rompecabezas para recibir SMS?
-  * ¿Necesito completar KYC para crear una cuenta de Blink?
-  * ¿Cómo puedo eliminar mi cuenta de Blink?
+* (¿Qué es Blink?)[README.md]
+* [Crear una cuenta de Blink](creating-a-blink-account/README.md)
+  * [¿Dónde puedo descargar Blink?](creating-a-blink-account/where-can-i-download-blink.md)
+  * [Cómo instalar el APK desde GitHub](creating-a-blink-account/how-to-install-the-apk-from-github.md)
+  * [¿Qué países no pueden descargar y activar Blink?](creating-a-blink-account/which-countries-are-unable-to-download-and-activate-blink.md)
+  * [¿Cómo creo una cuenta con Blink?](creating-a-blink-account/how-do-i-create-an-account-with-blink.md)
+  * [¿Qué información necesito proporcionar para registrarme en Blink?](creating-a-blink-account/what-information-do-i-need-to-provide-to-register-to-blink.md)
+  * [¿Qué debo hacer si no recibo un SMS?](creating-a-blink-account/what-should-i-do-if-i-dont-receive-an-sms.md)
+  * [¿Cómo puedo contactar al equipo de soporte de Blink?](creating-a-blink-account/how-do-i-contact-blink-support-team.md)
+  * [¿Es posible cambiar el número de teléfono asociado a un nombre de usuario después de crear una cuenta de Blink?](creating-a-blink-account/is-it-possible-to-change-the-phone-number-associated-with-a-username-after-creating-a-blink-account.md)
+  * [¿Puedo cambiar mi nombre de usuario después de crear mi cuenta de Blink?](creating-a-blink-account/can-i-change-my-username-after-creating-my-blink-account.md)
+  * [¿Por qué no puedo completar el rompecabezas para recibir SMS?](creating-a-blink-account/why-cant-i-complete-the-puzzle-to-receive-sms.md)
+  * [¿Necesito completar KYC para crear una cuenta de Blink?](creating-a-blink-account/do-i-need-to-complete-kyc-to-create-a-blink-account.md)
+  * [¿Cómo puedo eliminar mi cuenta de Blink?](creating-a-blink-account/how-can-i-delete-my-blink-account.md)
 * [Usando Blink](using-blink/README.md)
-  * ¿Cómo recibo una transacción con Blink?
-  * ¿Cómo envío una transacción con Blink?
+  * [¿Cómo recibo una transacción con Blink?](using-blink/how-do-i-receive-a-transaction-with-blink.md)
+  * [¿Cómo envío una transacción con Blink?](using-blink/how-do-i-send-a-transaction-with-blink.md)
   * [¿Qué métodos puedo usar para enviar y recibir transacciones usando Blink](using-blink/which-methods-can-i-use-to-send-and-receive-transactions-using-blink.md)
-  * ¿Cómo puedo agregar saldo a mi cuenta de Blink?
-  * ¿Cuáles son los límites de cuenta de Blink?
-  * <text_to_translate>[Actualización a una cuenta de nivel 2](using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account.md)</text_to_translate>
-  * <text_to_translate>[Actualización de una cuenta de prueba a nivel 1](using-blink/actualización-de-una-cuenta-de-prueba-a-nivel-1.md)</text_to_translate>
-  * ¿Cómo puedo retirar mis fondos de Blink?
-  * ¿Cómo funciona la billetera Blink?
-  * ¿Puedo pagar con tarjeta de crédito o débito?
-  * ¿Qué opciones hay si la aplicación Blink no es compatible con mi teléfono?
-  * ¿Cómo obtener un comprobante de pago de Blink? (using-blink/how-to-obtain-a-proof-of-payment-from-blink.md)
-  * ¿Cómo convertir entre BTC y USD (Stablesats)?
+  * [¿Cómo puedo agregar saldo a mi cuenta de Blink?](using-blink/how-can-i-add-balance-to-my-blink-account.md)
+  * [¿Cuáles son los límites de cuenta de Blink?](using-blink/what-are-blinks-account-limits.md)
+  * [Actualización a una cuenta de nivel 2](using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account.md)
+  * [Actualización de una cuenta de prueba a nivel 1](using-blink/actualización-de-una-cuenta-de-prueba-a-nivel-1.md)
+  * [¿Cómo puedo retirar mis fondos de Blink?](using-blink/how-do-i-cash-out-my-blink-funds.md)
+  * [¿Cómo funciona la billetera Blink?](using-blink/how-does-blinks-bitcoin-wallet-work.md)
+  * [¿Puedo pagar con tarjeta de crédito o débito?](using-blink/can-i-pay-with-a-credit-or-debit-card.md)
+  * [¿Qué opciones hay si la aplicación Blink no es compatible con mi teléfono?](using-blink/what-options-there-are-if-the-blink-app-is-not-compatible-with-my-phone.md)
+  * [¿Cómo obtener un comprobante de pago de Blink?](using-blink/how-to-obtain-a-proof-of-payment-from-blink.md)
+  * [¿Cómo convertir entre BTC y USD (Stablesats)?](using-blink/how-to-convert-between-btc-and-usd-stablesats.md)
 * [Blink Métodos de Pago](blink-payment-methods/README.md)
   * [Intraledger](blink-payment-methods/intraledger/README.md)
-    * ¿Qué es una transacción intraledger?
-    * ¿Hay alguna tarifa por transacción entre usuarios de Blink?
-    * ¿Qué información se necesita para enviar o recibir Bitcoin entre billeteras de Blink?
+    * [¿Qué es una transacción intraledger?](blink-payment-methods/intraledger/what-is-an-intraledger-transaction.md)
+    * [¿Hay alguna tarifa por transacción entre usuarios de Blink?](blink-payment-methods/intraledger/are-there-any-fees-for-transaction-between-blink-users.md)
+    * [¿Qué información se necesita para enviar o recibir Bitcoin entre billeteras de Blink?](blink-payment-methods/intraledger/what-information-is-needed-to-send-or-receive-bitcoin-between-blink-wallets.md)
   * [On.chain](blink-payment-methods/on-chain/README.md)
-    * ¿Qué es una transacción en cadena?
-    * ¿Cómo puedo recibir una transacción en cadena con Blink?
-    * ¿Cómo puedo enviar una transacción on-chain con Blink?
-    * ¿Dónde puedo verificar el estado de una transacción on-chain?
-    * ¿Cuáles son los diferentes tipos de direcciones de Bitcoin on-chain?
-    * ¿Puede la capitalización afectar la validez de una dirección de Bitcoin?
-    * ¿Cuáles son algunas razones comunes por las que una transacción en cadena tarda mucho tiempo en confirmarse?
+    * [¿Qué es una transacción en cadena?](blink-payment-methods/on-chain/what-is-an-on-chain-transaction.md)
+    * [¿Cómo puedo recibir una transacción en cadena con Blink?](blink-payment-methods/on-chain/how-can-i-receive-an-on-chain-transaction-with-blink.md)
+    * [¿Cómo puedo enviar una transacción on-chain con Blink?](blink-payment-methods/on-chain/how-can-i-send-an-on-chain-transaction-with-blink.md)
+    * [¿Dónde puedo verificar el estado de una transacción on-chain?](blink-payment-methods/on-chain/where-can-i-verify-the-status-of-an-on-chain-transaction.md)
+    * [¿Cuáles son los diferentes tipos de direcciones de Bitcoin on-chain?](blink-payment-methods/on-chain/what-are-the-different-types-of-bitcoin-on-chain-addresses.md)
+    * [¿Puede la capitalización afectar la validez de una dirección de Bitcoin?](blink-payment-methods/on-chain/can-capitalization-affect-the-validity-of-a-bitcoin-address.md)
+    * [¿Cuáles son algunas razones comunes por las que una transacción en cadena tarda mucho tiempo en confirmarse?](blink-payment-methods/on-chain/what-are-some-common-reasons-for-an-on-chain-transaction-to-take-a-long-time-to-confirm.md)
   * [Lightning](blink-payment-methods/lightning/README.md)
-    * ¿Qué es la Red Lightning?
-    * ¿Por qué Blink utiliza Lightning como predeterminado?
-    * ¿Cómo reconocer una factura de Lightning?
-    * ¿Cómo envío pagos de bitcoin utilizando la Red Lightning con Blink?
-    * ¿Cómo recibo pagos de bitcoin utilizando la Red Lightning con Blink?
-    * ¿Qué debo hacer si mi transacción de Lightning falla mientras intento pagar a alguien?
-  * <text_to_translate>[Dirección Lightning y Paycode](blink-payment-methods/lightning-address/README.md)</text_to_translate>
-    * ¿Alguien puede robar mi dinero si les doy mi Lightning Address?
-    * ¿Qué es una dirección Lightning y cómo se ve?
-    * ¿Todos las billeteras admiten direcciones Lightning?
-    * ¿Cómo puedo crear una dirección Lightning con Blink?
-    * ¿Cómo puedo usar Lightning Address para enviar y recibir dinero con Blink?
-    * ¿Qué es la caja registradora en Blink?
-    * ¿Cómo puedo usar la función de caja registradora de Blink?
-    * ¿Qué es un Paycode y cómo puedo usarlo?
+    * [¿Qué es la Red Lightning?](blink-payment-methods/lightning/what-is-the-lightning-network.md)
+    * [¿Por qué Blink utiliza Lightning como predeterminado?](blink-payment-methods/lightning/why-does-blink-use-lightning-as-default.md)
+    * [¿Cómo reconocer una factura de Lightning?](blink-payment-methods/lightning/how-to-recognize-a-lightning-invoice.md)
+    * [¿Cómo envío pagos de bitcoin utilizando la Red Lightning con Blink?](blink-payment-methods/lightning/how-do-i-send-bitcoin-payments-using-the-lightning-network-with-blink.md)
+    * [¿Cómo recibo pagos de bitcoin utilizando la Red Lightning con Blink?](blink-payment-methods/lightning/how-do-i-receive-bitcoin-payments-using-the-lightning-network-with-blink.md)
+    * [¿Qué debo hacer si mi transacción de Lightning falla mientras intento pagar a alguien?](blink-payment-methods/lightning/what-should-i-do-if-my-lightning-transaction-fails-while-trying-to-pay-someone.md)
+  * [Dirección Lightning y Paycode](blink-payment-methods/lightning-address/README.md)
+    * [¿Alguien puede robar mi dinero si les doy mi Lightning Address?](blink-payment-methods/lightning-address/can-someone-steal-my-money-if-i-give-them-my-lightning-address.md)
+    * [¿Qué es una dirección Lightning y cómo se ve?](blink-payment-methods/lightning-address/what-is-a-lightning-address-and-what-does-it-look-like.md)
+    * [¿Todos las billeteras admiten direcciones Lightning?](blink-payment-methods/lightning-address/do-all-wallets-support-lightning-addresses.md)
+    * [¿Cómo puedo crear una dirección Lightning con Blink?](blink-payment-methods/lightning-address/how-can-i-create-lightning-address-with-blink.md)
+    * [¿Cómo puedo usar Lightning Address para enviar y recibir dinero con Blink?](blink-payment-methods/lightning-address/how-can-i-use-lightning-address-to-send-and-receive-money-with-blink.md)
+    * [¿Qué es la caja registradora en Blink?](blink-payment-methods/lightning-address/what-is-the-cash-register-in-blink.md)
+    * [¿Cómo puedo usar la función de caja registradora de Blink?](blink-payment-methods/lightning-address/how-can-i-use-blinks-cash-register-feature.md)
+    * [¿Qué es un Paycode y cómo puedo usarlo?](blink-payment-methods/lightning-address/what-is-a-paycode-and-how-can-i-use-it.md)
 * [Stablesats](stablesats/README.md)
-  * ¿Qué es Stablesats?
-  * ¿Cómo funciona Stablesats?
-  * ¿Cómo se compara Stablesats con las stablecoins y la integración bancaria en moneda fiduciaria?
-  * ¿Es Stablesats compatible con el sistema bancario tradicional?
-  * ¿Existen requisitos regulatorios para Stablesats?
-  * ¿Cuáles son los riesgos asociados con Stablesats?
-  * ¿Qué hace que Stablesats se destaque de stablecoins como Tether y USDC?
-  * ¿Es posible utilizar dólares físicos de una cuenta bancaria para enviar y recibir pagos a través de Lightning?
+  * [¿Qué es Stablesats?](stablesats/what-is-stablesats.md)
+  * [¿Cómo funciona Stablesats?](stablesats/how-does-stablesats-work.md)
+  * [¿Cómo se compara Stablesats con las stablecoins y la integración bancaria en moneda fiduciaria?](stablesats/how-does-stablesats-compare-to-stablecoins-and-fiat-banking-integration.md)
+  * [¿Es Stablesats compatible con el sistema bancario tradicional?](stablesats/is-stablesats-compatible-with-the-traditional-banking-system.md)
+  * [¿Existen requisitos regulatorios para Stablesats?](stablesats/are-there-any-regulatory-requirements-for-stablesats.md)
+  * [¿Cuáles son los riesgos asociados con Stablesats?](stablesats/what-are-the-risks-associated-with-stablesats.md)
+  * [¿Qué hace que Stablesats se destaque de stablecoins como Tether y USDC?](stablesats/what-makes-stablesats-stand-out-from-stablecoins-like-tether-and-usdc.md)
+  * [¿Es posible utilizar dólares físicos de una cuenta bancaria para enviar y recibir pagos a través de Lightning?](stablesats/is-it-possible-to-use-physical-usd-from-a-bank-account-to-send-and-receive-payments-over-lightning.md)
 * [Transaction Fees](transaction-fees/README.md)
-  * ¿Cuáles son las tarifas de transacción para usar la billetera Blink?
-  * ¿Qué son las tarifas de minería?
-  * ¿Qué determina las tarifas de minería?
-  * ¿Existen tarifas por transacciones entre dos billeteras Blink?
-  * ¿Cuáles son las tarifas para enviar Bitcoin desde mi billetera Blink a otra billetera?
-  * ¿Por qué Blink tiene un umbral de desequilibrio Lightning - onchain?
-  * ¿Cuáles son las tarifas por recibir Bitcoin en mi billetera Blink?
-  * ¿Cuáles son las tarifas para convertir Bitcoin a o desde Stablesats?
+  * [¿Cuáles son las tarifas de transacción para usar la billetera Blink?](transaction-fees/what-are-the-transaction-fees-for-using-blink-wallet.md)
+  * [¿Qué son las tarifas de minería?](transaction-fees/what-are-mining-fees.md)
+  * [¿Qué determina las tarifas de minería?](transaction-fees/what-determines-mining-fees.md)
+  * [¿Existen tarifas por transacciones entre dos billeteras Blink?](transaction-fees/are-there-any-fees-for-transactions-between-two-blink-wallets.md)
+  * [¿Cuáles son las tarifas para enviar Bitcoin desde mi billetera Blink a otra billetera?](transaction-fees/what-are-the-fees-for-sending-bitcoin-from-my-blink-wallet-to-another-wallet.md)
+  * [¿Por qué Blink tiene un umbral de desequilibrio Lightning - onchain?](transaction-fees/why-does-blink-have-a-lightning-onchain-imbalance-threshold.md)
+  * [¿Cuáles son las tarifas por recibir Bitcoin en mi billetera Blink?](transaction-fees/what-are-the-fees-for-receiving-bitcoin-in-my-blink-wallet.md)
+  * [¿Cuáles son las tarifas para convertir Bitcoin a o desde Stablesats?](transaction-fees/what-are-the-fees-for-converting-bitcoin-to-or-from-stablesats.md)
 * Comprar y vender Bitcoin
   * [Which accounts can buy and sell bitcoin with Blink?](buy-and-sell-bitcoin/which-accounts-can-buy-and-sell-bitcoin-with-blink.md)
   * [How to buy bitcoin with Blink?](buy-and-sell-bitcoin/how-to-buy-bitcoin-with-blink.md)
