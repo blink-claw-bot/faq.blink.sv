@@ -1,10 +1,10 @@
 # ¿Cómo obtener un comprobante de pago de Blink?
 
-As discussed in the answer to the question [How to prove that a lightning invoice was paid? ](../blink-and-other-wallets/how-to-prove-that-a-lightning-invoice-was-paid.md) the information needed to prove a payment of a Lightning invoice is:\
-&#x20; 1\.   The original **Lightning Invoice** provided by the payee node\
-&#x20; 2\.   The **payment pre-image** received by the payer on the successful payment\
-\
-This information is exposed in the Blink Transaction History when clicking \`All transactions\` then choose the sent payment in question.\
+Como se discutió en la respuesta a la pregunta [Cómo demostrar que se pagó una factura de Lightning](../blink-and-other-wallets/how-to-prove-that-a-lightning-invoice-was-paid.md), la información necesaria para demostrar el pago de una factura de Lightning es:
+&#x20; 1\.   La **Factura de Lightning** original proporcionada por el nodo del beneficiario
+&#x20; 2\.   La **preimagen de pago** recibida por el pagador en el pago exitoso
+
+Esta información se muestra en el Historial de Transacciones de Blink al hacer clic en `Todas las transacciones` y luego elegir el pago enviado en cuestión.
 
 
 Copie los campos `Preimagen / Prueba de Pago` y `Solicitud de Pago` que juntos pueden servir como Prueba de Pago para cualquier persona que pueda verificar criptográficamente.

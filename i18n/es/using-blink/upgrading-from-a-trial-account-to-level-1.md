@@ -1,4 +1,4 @@
-# Upgrading from a Trial account to level 1
+# Actualizar de una cuenta de prueba a nivel 1
 
 Ejecutar Blink en algunos teléfonos (que ejecutan un sistema operativo sin modificaciones ni personalizaciones) permite abrir una cuenta de prueba sin necesidad de utilizar un número de teléfono.
 
@@ -14,7 +14,7 @@ Actualizar a una cuenta de nivel 1 viene con beneficios:
 
 Para actualizar de la cuenta de prueba (nivel 0) al nivel 1, deberá verificar un número de teléfono utilizando SMS o WhatsApp.
 
-1. In the Blink Wallet with the Trial account select the menu on the top right and tap `Account`
+1. En la billetera Blink con la cuenta de prueba, selecciona el menú en la parte superior derecha y pulsa `Cuenta`.
 2. seleccionar `Copia de Seguridad/actualizar cuenta`
 3. completa la configuración de la cuenta con un número de teléfono
 

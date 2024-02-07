@@ -9,4 +9,4 @@
 | Caja registradora aplicación web | No       | Sí        |
 | LNURL Paycode         | No       | Sí        |
 
-\*With the contact list you can send and receive to other Blink users only. and need to do at least one transaction with this user to add to “contact List”.
+*Con la lista de contactos puedes enviar y recibir mensajes solo a otros usuarios de Blink. y necesitas hacer al menos una transacción con este usuario para agregarlo a la "Lista de contactos".

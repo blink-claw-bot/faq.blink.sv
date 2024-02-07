@@ -19,11 +19,11 @@ description: La billetera de Bitcoin cotidiana nacida en El Zonte
 
     \- Gana sats y aprende sobre Bitcoin con el cuestionario dentro de la aplicación
 
-    \- Transaction log displays a history of payments
+    - El registro de transacciones muestra un historial de pagos
 
-    \- Contact list makes it easy to send payments to friends and family
+    \- La lista de contactos facilita el envío de pagos a amigos y familiares.
 
-    \- Merchant map displays businesses in your area that accept Bitcoin / Lightning payments
+    \- El mapa de comerciantes muestra negocios en tu área que aceptan pagos con Bitcoin / Lightning.
 
 
 

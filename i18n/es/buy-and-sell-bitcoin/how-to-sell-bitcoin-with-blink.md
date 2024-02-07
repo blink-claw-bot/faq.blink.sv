@@ -2,13 +2,13 @@
 
 1. Abre la aplicación de Blink y toca el ícono del gráfico de precios en la parte superior izquierda.
     ![](../.gitbook/assets/blink_fiat_app_screenshot01.jpg)
-2. Tap  `Buy and sell bitcoin` on the bottom of the screen\
+2. Toca `Comprar y vender bitcoin` en la parte inferior de la pantalla.
     ![](../.gitbook/assets/blink_fiat_app_screenshot02.jpg)
 3. Elige el país donde se encuentra tu cuenta bancaria y pulsa el botón `Vender Bitcoin`.
     ![](../.gitbook/assets/blink_fiat_app_screenshot03.jpg)
 5. Ingrese la cantidad a vender en USD, complete sus datos bancarios donde recibirá la transferencia y toque `Siguiente`
     ![](../.gitbook/assets/blink_fiat_app_screenshot07.jpg)
-6. Fill in your details matching the details on your bank account, enter an email where you can be contacted and tap `Next`\
+6. Complete sus datos coincidiendo con los detalles de su cuenta bancaria, ingrese un correo electrónico donde se le pueda contactar y toque `Siguiente`
     ![](../.gitbook/assets/blink_fiat_app_screenshot08.jpg)
 8. Confirma los detalles del pedido que contienen tu nombre y número de cuenta bancaria (redactado aquí) y toca `Confirmar`.
     ![](../.gitbook/assets/blink_fiat_app_screenshot09.jpg)

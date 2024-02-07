@@ -9,7 +9,7 @@ Hay dos formas de usar la caja registradora Blink
 3. Aquí encontrarás el enlace de tu caja registradora
 4. Puede compartir este enlace con sus empleados, clientes o agregarlo directamente a sus redes sociales, sitio web o blog para recibir pagos.
 
-**Option 2:**
+**Opción 2:**
 
 1. Ir a [pay.blink.sv](https://pay.blink.sv/)
 2. Ingresa tu nombre de usuario de Blink

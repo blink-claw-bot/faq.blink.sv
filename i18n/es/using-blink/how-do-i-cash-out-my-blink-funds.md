@@ -1,10 +1,10 @@
-# How do I cash out my Blink funds?
+# ¿Cómo puedo retirar mis fondos de Blink?
 
-To withdraw your Blink funds, you can use the following methods:
+Para retirar tus fondos de Blink, puedes utilizar los siguientes métodos:
 
-1. For users in El Salvador who have [upgraded their account to level 2](https://faq.blink.sv/using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account) selling and buying bitcoin is available with Blink:
-    - In the Blink app see: [How can I sell bitcoin with Blink?](https://faq.blink.sv/buy-and-sell-bitcoin/how-to-sell-bitcoin-with-blink)
-    - Alternatively can use the website: [fiat.blink.sv](https://fiat.blink.sv)
+1. Para los usuarios en El Salvador que hayan [actualizado su cuenta al nivel 2](https://faq.blink.sv/using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account) la compra y venta de bitcoin está disponible con Blink:
+    - En la aplicación Blink ver: [¿Cómo puedo vender bitcoin con Blink?](https://faq.blink.sv/buy-and-sell-bitcoin/how-to-sell-bitcoin-with-blink)
+    - Alternativamente se puede utilizar el sitio web: [fiat.blink.sv](https://fiat.blink.sv)
 2. Vender bitcoin de persona a persona para intercambiarlo por una moneda fiduciaria.
 3. Encuentra un cajero automático de Bitcoin cerca de ti utilizando un sitio web como [Coin Atm Radar](https://coinatmradar.com/).
 4. Vende tus Bitcoin a través de un exchange centralizado como Bitfinex, Kraken u otros que admitan Blink.

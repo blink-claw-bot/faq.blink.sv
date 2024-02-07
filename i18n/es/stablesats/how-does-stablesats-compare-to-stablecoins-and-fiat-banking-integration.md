@@ -15,5 +15,5 @@ Stablesats también se pueden integrar de manera fluida con la Lightning Network
 | Dólar      | Banco                   | Sí, para el usuario           | Alto     |
 | Stablecoins | Emisor                 | Sí, para los problemas         | Bajo      |
 | Stablesats  | Intercambio               | Ninguno                        | Más bajo   |
-| DLCFD       | Oracle                 | None                        | TBD      |
+| DLCFD       | Oracle                 | Ninguno                        | TBD      |
 
