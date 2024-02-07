@@ -1,6 +1,6 @@
 # Tabla de contenidos
 
-* (¿Qué es Blink?)[README.md]
+* [¿Qué es Blink?](README.md)
 * [Crear una cuenta de Blink](creating-a-blink-account/README.md)
   * [¿Dónde puedo descargar Blink?](creating-a-blink-account/where-can-i-download-blink.md)
   * [Cómo instalar el APK desde GitHub](creating-a-blink-account/how-to-install-the-apk-from-github.md)
