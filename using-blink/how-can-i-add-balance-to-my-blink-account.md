@@ -7,7 +7,7 @@ There are several ways to add funds to your Blink account:
     - In the Blink app see: [How can I buy bitcoin with Blink?](https://faq.blink.sv/buy-and-sell-bitcoin/how-to-buy-bitcoin-with-blink)
     - Alternatively can use the website: [fiat.blink.sv](https://fiat.blink.sv)
 3. Send bitcoin from an exchange or other wallet using the Lightning Network.
-4. Send bitcoin from an exchange or other wallet to the provided Bitcoin wallet address.
+4. Send bitcoin from an exchange or other wallet on-chain to the provided Bitcoin wallet address.
 5. Buy bitcoin peer to peer or through an ATM.
 
 Please note that fees may apply depending on the method you choose to add funds to your Blink account.

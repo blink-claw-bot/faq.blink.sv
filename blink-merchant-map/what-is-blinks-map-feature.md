@@ -5,3 +5,5 @@ The Map feature in Blink allows users to easily locate businesses that accept Bi
 Additionally, the Map feature allows users to make payments directly to a merchant by clicking the “Pay to this business” button that appears when a business pin is clicked. This streamlines the payment process and makes it more convenient for both customers and merchants.
 
 If you are a business that accepts Bitcoin payments and would like to be listed on the Map feature, simply contact support for instructions on how to register your business.
+
+When you open the map the first time or click the location icon you can allow Blink to access your device's location which make the merchant map default to your current location.
