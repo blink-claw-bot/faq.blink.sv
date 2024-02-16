@@ -8,6 +8,6 @@ On the other hand, Blink's on-chain transaction fees are composed of three facto
 
 1. [**Miner fee**](what-are-mining-fees.md) - This fee is paid according to the current mempool state.
 2. Fixed fee - This is a fixed amount of 10,000 sats.
-3. Additional fee - A 0.5% extra fee is charged for transactions above the allowance of 10 million sats LN-onchain imbalance.
+3. Additional fee - A 0.2% extra fee is charged for transactions above the allowance of 10 million sats LN-onchain imbalance.
 
 Please note that the exact amount of transaction fees may vary depending on the current market conditions and network congestion.
