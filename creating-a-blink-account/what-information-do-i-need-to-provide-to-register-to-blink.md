@@ -8,4 +8,4 @@ If you don't have access to SMS messaging, we also offer WhatsApp as a verificat
 
 Please note that the username you create will be visible to other Blink users, so we recommend choosing your username with this in mind.
 
-Once registered it si recommended to [add an email address](/creating-a-blink-account/how-do-i-create-an-account-with-blink.md#add-an-email-address-(optional)) which you can use to log in going forward.
+Once registered it is recommended to [add an email address](/creating-a-blink-account/how-do-i-create-an-account-with-blink.md#add-an-email-address-(optional)) which you can use to log in going forward.
