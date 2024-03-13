@@ -7,3 +7,5 @@ Una vez que hayas ingresado tu número de teléfono, recibirás un mensaje de te
 Si no tienes acceso a mensajería SMS, también ofrecemos WhatsApp como opción de verificación.
 
 Tenga en cuenta que el nombre de usuario que cree será visible para otros usuarios de Blink, por lo que recomendamos elegir su nombre de usuario teniendo esto en cuenta.
+
+Una vez registrado, se recomienda [agregar una dirección de correo electrónico](/creating-a-blink-account/how-do-i-create-an-account-with-blink.md#add-an-email-address-(optional)) que podrás utilizar para iniciar sesión en el futuro.
