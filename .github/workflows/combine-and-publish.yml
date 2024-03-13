@@ -60,10 +60,10 @@ jobs:
 
       - name: Create Pages artifact
         run: |
-          tar 
-          --dereference --hard-dereference 
-          --directory "./pages" 
-          -cvf ./artifact.tar 
+          tar \
+          --dereference --hard-dereference \
+          --directory "./pages" \
+          -cvf ./artifact.tar \
           .
 
       - name: Setup Pages
