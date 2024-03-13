@@ -17,8 +17,6 @@ However, due to regulatory restrictions, Blink is not offering any services for 
 * United States
 * North Korea&#x20;
 
-If you are located in one of these countries, you may not be able to use Blink at this time. We apologize for any inconvenience this may cause and recommend that you explore other wallet options that are available to you.\
-\
-If you are having trouble downloading Blink or it is not available in your region, we suggest trying Phoenix wallet as an alternative Lightning wallet. You can find download links on their website: [https://phoenix.acinq.co/](https://phoenix.acinq.co/). Please note that while it may not have all the features of Blink, Phoenix is also a reputable and user-friendly wallet for Lightning transactions.
+If you are located in one of these countries, you may not be able to use Blink at this time. We apologize for any inconvenience this may cause and recommend that you explore other wallet options that are available to you.
 
-\
+If you are having trouble downloading Blink or it is not available in your region, we suggest trying Phoenix wallet as an alternative Lightning wallet. You can find download links on their website: [https://phoenix.acinq.co/](https://phoenix.acinq.co/). Please note that while it may not have all the features of Blink, Phoenix is also a reputable and user-friendly wallet for Lightning transactions.

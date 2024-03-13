@@ -1,7 +1,7 @@
 # How to prove that a lightning invoice was paid?
 
-In the realm of the Lightning Network (LN), a Proof of Payment (PoP) serves as a verifiable acknowledgment that a specific transaction has successfully occurred.  Lightning payments are atomic meaning that if there is a pre-image received by the payer the payment was surely received by the destination node.\
-\
+In the realm of the Lightning Network (LN), a Proof of Payment (PoP) serves as a verifiable acknowledgment that a specific transaction has successfully occurred.  Lightning payments are atomic meaning that if there is a pre-image received by the payer the payment was surely received by the destination node.
+
 **How Does Proof of Payment Work in the Lightning Network?**
 
 1. **Invoice Generation by the Payee's Node**:
@@ -24,8 +24,7 @@ In the realm of the Lightning Network (LN), a Proof of Payment (PoP) serves as a
 
 **In summary to prove a lightning invoice was paid there are two pieces of information needed:**
 
-&#x20; 1\.   The original **Lightning Invoice** provided by the node\
-&#x20; 2\.   The **payment pre-image** received by the payer on the successful payment\
-\
-Please if you are contacting the Blink support team or operators of other lightning nodes have this information at hand.\
-\
+   1.The original **Lightning Invoice** provided by the node
+   2.The **payment pre-image** received by the payer on the successful payment
+
+Please if you are contacting the Blink support team or operators of other lightning nodes have this information at hand.

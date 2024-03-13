@@ -2,10 +2,10 @@
 
 ## **Location**
 
-Currently the service is only available for people who have a bank account in El Salvador. \
-\
-The function is made available by country because bank transfers are tied to the service of specific banks.\
-\
+Currently the service is only available for people who have a bank account in El Salvador. 
+
+The function is made available by country because bank transfers are tied to the service of specific banks.
+
 The extension to more countries (focusing first to Central America) is planned so please check back again if you are looking for a service in other countries.
 
 ## Account Level

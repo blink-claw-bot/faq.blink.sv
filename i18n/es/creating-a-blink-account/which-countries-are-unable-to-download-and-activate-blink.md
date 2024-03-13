@@ -20,5 +20,3 @@ Sin embargo, debido a restricciones regulatorias, Blink no ofrece ningún servic
 Si te encuentras en alguno de estos países, es posible que no puedas utilizar Blink en este momento. Nos disculpamos por cualquier inconveniente que esto pueda causar y te recomendamos que explores otras opciones de billetera que estén disponibles para ti.
 
 Si tienes problemas para descargar Blink o no está disponible en tu región, te sugerimos que pruebes Phoenix wallet como una billetera alternativa para Lightning. Puedes encontrar enlaces de descarga en su sitio web: [https://phoenix.acinq.co/](https://phoenix.acinq.co/). Ten en cuenta que aunque puede que no tenga todas las características de Blink, Phoenix también es una billetera confiable y fácil de usar para transacciones de Lightning.
-
-\

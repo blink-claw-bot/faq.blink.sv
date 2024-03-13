@@ -4,7 +4,7 @@ Upgrading your account to level 2 will come with benefits:
 
 * increased transaction limits&#x20;
 * access to [transfer to bank accounts in selected countries](https://faq.blink.sv/using-blink/how-do-i-cash-out-my-blink-funds)
-* possible recovery through the support if you lose access to your account\
+* possible recovery through the support if you lose access to your account
 
 
 To complete the process will need to provide additional data to be verified: your name, a government issued ID and a selfie.&#x20;

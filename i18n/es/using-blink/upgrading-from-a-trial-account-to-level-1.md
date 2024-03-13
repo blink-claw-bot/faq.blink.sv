@@ -19,8 +19,8 @@ Para actualizar de la cuenta de prueba (nivel 0) al nivel 1, deberá verificar u
 3. completa la configuración de la cuenta con un número de teléfono
 
 
-Es recomendable agregar una dirección de correo electrónico también para que puedas recuperar con correo electrónico y no necesites depender del número de teléfono:\
-\
+Es recomendable agregar una dirección de correo electrónico también para que puedas recuperar con correo electrónico y no necesites depender del número de teléfono:
+
 Para agregar un inicio de sesión por correo electrónico (solo disponible si se agregó previamente un número de teléfono):
 
 1. selecciona el menú en la parte superior derecha y pulsa `Cuenta`
