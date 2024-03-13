@@ -8,7 +8,7 @@ description: La billetera de Bitcoin cotidiana nacida en El Zonte
 
 * **Ideal para la incorporación**: Blink es ideal para la incorporación con una configuración sencilla y lecciones educativas, lo que lo convierte en la billetera perfecta para recomendar a amigos, familiares o cualquier persona nueva en Bitcoin. Como billetera custodial, los nuevos usuarios aún no necesitan tener educación y habilidades de almacenamiento seguro de frases de semilla para obtener una gran experiencia al usar Bitcoin y la Lightning Network.
 * **Muchas formas de recibir sats**: Blink ofrece muchas formas de recibir sats, incluyendo Lightning Address, una aplicación web de caja registradora, factura LN, Paycode imprimible o dirección en cadena, lo que lo convierte en una gran herramienta para pequeñas empresas, recaudación de fondos y remesas.
-* **USD-habilitado:** Con cuentas en dólares impulsadas por Stablesats, Blink también es una excelente herramienta para mantener un valor estable de la cuenta para necesidades de gastos a corto plazo. Obtén más información en [stablesats.com](https://stablesats.com)
+* **Stablesats:** Con una billetera denominada en USD impulsada por Stablesats, Blink también es una excelente herramienta para mantener tus sats al valor del dólar, lo que ayuda en tus planes financieros y contabilidad a corto plazo. Obtén más información en [stablesats.com](https://stablesats.com). Existe una forma sencilla de convertir la cantidad de elección entre tus billeteras denominadas en bitcoin y dólares.
 * **Siempre funciona**: Blink se mantiene actualizado con los últimos avances en Bitcoin y la Lightning Network, por lo que simplemente funciona cuando lo necesitas. Con un equipo dedicado que gestiona la liquidez y los canales de Lightning, es una billetera en la que puedes confiar para pagos rápidos y confiables.
 * **Código abierto:** Fiel al ethos de Bitcoin, Blink es software de código abierto gratuito (FOSS) construido sobre la plataforma de desarrollo Lightning mantenida por Galoy. Ver el código en [GitHub](https://github.com/galoymoney)
 * **Multi-idioma**: Usa Blink en tu idioma nativo, sin importar dónde vivas. Hoy en día, la billetera está traducida al inglés, español, francés, portugués, checo, alemán, tailandés, catalán, suajili y muchos más. ¿No ves tu idioma? Contáctanos en Twitter en @blinkbtc para solicitar un nuevo idioma.
@@ -25,11 +25,4 @@ description: La billetera de Bitcoin cotidiana nacida en El Zonte
 
     \- El mapa de comerciantes muestra negocios en tu área que aceptan pagos con Bitcoin / Lightning.
 
-
-
-
-
-
-
-
-
+    \- Para desarrolladores y necesidades de automatización hay una API pública disponible. Obtén más información en [dev.blink.sv](https://dev.blink.sv)
