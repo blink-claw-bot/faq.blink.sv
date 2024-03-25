@@ -1,0 +1,3 @@
+# Laddu
+
+Tukwanirizza ku katundu k'omukutu gwa Laddu ogwa Waleti yaffe eya Blink! Wano ojja kusanga eby'okuddamu mu bibuuzo byo byonna ebikwatagana n'engeri y'okusasula ssente za laddu eziri mu waleti yaffe. Omukutu gwa Laddu gwe mukutu ogwa maanyi ennyo kumwaliro ogw'okubiri oguzimbiddwa wagulu ku mukutu gwa Bitcoin. Okuva bwe kiri nti sipiidi y'okutunda ya laddu, ssente ntono nnyo, n'okwongera okukuuma ebyama, tekyewuunyisa lwaki Omukuttu gwa Laddu efuuse enkola ey'okusasula eri abakozesa Bitcoin okwetooloola ensi yonna. Blink ewagira mu bujjuvu empaanyisa eya laddu, ekifuula kyangu okusinga bwe kyali kibadde okusindika n'okufuna ssente za Bitcoin amangu ddala.
