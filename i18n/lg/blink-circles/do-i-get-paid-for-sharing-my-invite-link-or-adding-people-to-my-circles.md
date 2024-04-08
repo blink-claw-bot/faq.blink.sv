@@ -1,4 +1,4 @@
-# Nsasulwa olw'okugabana ienyunga eyaaniriza oba okwongera abantu mu'nkula ezennamuziga ezange?
+# Nsasulwa olw'okugabana enyunga eyaaniriza oba okwongera abantu mu'nkula ezannamuziga ezange?
 
 Nedda, tewali mpeera ya mutindo ey'okugabana enkolagana yo oba okukulaakulanya ennamuziga yo.
 
