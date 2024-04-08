@@ -6,7 +6,7 @@ You can provide the following information to receive a transaction:
 
 * Your on-chain address (starts with `bc1...`). Incoming on-chain transactions (deposit) require 2 confirmations to become available for spending.
 * Creating a Lightning invoice (BOLT11 format, starting with `lnbc1...`)
-* Cash Register web app
+* Point of Sale (PoS or Cash Register) web app
 * Use the Lightning Address, which uses an email address form (eg. yourusername@blink.sv)
 * Using your Blink Paycode (also known as an LNURL)
 

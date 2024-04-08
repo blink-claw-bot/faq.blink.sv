@@ -8,7 +8,7 @@ Upgrading to a level 1 account comes with benefits:
 
 * &#x20;increased transaction limits
 * &#x20;ability to recover the account using the registered phone number with SMS / WhatsApp or email
-* enable functions like on-chain send and receive, setting a username, lightning address, Point of Sale / Cash Register webpage,  static paycode etc.
+* enable functions like on-chain send and receive, setting a username, lightning address, Point of Sale (PoS or Cash Register) webpage,  static paycode etc.
 
 
 To upgrade from the Trial account (level 0) to level 1 you will need to verify a phone number using SMS or WhatsApp:

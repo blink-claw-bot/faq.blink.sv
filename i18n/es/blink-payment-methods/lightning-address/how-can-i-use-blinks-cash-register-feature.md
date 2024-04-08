@@ -1,6 +1,6 @@
 # ¿Cómo puedo usar la función de caja registradora de Blink?
 
-Hay dos formas de usar la caja registradora Blink 
+Hay dos formas de usar la caja registradora Blink
 
 **Opción 1:**
 
@@ -13,6 +13,6 @@ Hay dos formas de usar la caja registradora Blink
 
 1. Ir a [pay.blink.sv](https://pay.blink.sv/)
 2. Ingresa tu nombre de usuario de Blink
-3. Comience a recibir pagos utilizando su exclusiva Blink Cash Register.
+3. Comience a recibir pagos utilizando su exclusiva Blink Point of Sale.
 
 Al utilizar la Caja Registradora, puedes recibir fácilmente pagos directamente en ambas cuentas (BTC / USD) sin depender de un solo dispositivo. Es una solución ideal para los propietarios de pequeñas empresas que necesitan un sistema de punto de venta funcional sin los costos adicionales de los procesadores de pagos tradicionales.
