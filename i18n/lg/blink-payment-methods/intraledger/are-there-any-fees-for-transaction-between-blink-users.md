@@ -1,0 +1,3 @@
+# Waliwo sebisale byonna ebisasulwa ku nkolagana wakati w'abakozesa blink?
+
+Nedda, tewali bisale bya nkolagana wakati w'abakozesa Blink. Bw’osindika oba ofuna Bitcoin munda mu nkola ya Blink, ka kibeere ng’oyita mu nkolagana ku lujegere, okusasula Lightning Network, oba okutunda kwa LNURL, tewali ssente ndala eziteekebwawo Blink. Osobola okuweereza n’okufuna ssente mu ddembe wakati wa waleti za Blink nga tosasudde ssente zonna. Kino kifuula Blink eky’okulonda ekisikiriza eri abakozesa abaagala okukyusa Bitcoin nga tebeeraliikirivu ku ssente za kugula, okusobozesa okutunda okuva mu bannaabwe mu ngeri etalina buzibu era etali ya ssente nnyingi mu kibiina kya Blink.

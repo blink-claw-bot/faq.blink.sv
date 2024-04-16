@@ -1,0 +1,5 @@
+# Walleti ya Multisignature kye ki?
+
+**Multisignature** (multisig) nkola ya bukuumi erimu ebisumuluzo eby’ekyama ebingi okukkiriza okutunda kwa Bitcoin. Mu kifo ky’ekisumuluzo kimu eky’ekyama ekifuga enkolagana, multisig yeetaaga ebisumuluzo eby’ekyama bibiri oba okusingawo okussa omukono ku nkolagana nga tennakolebwa. Kino kyongera ku layeri y’obukuumi ey’enjawulo okutangira abantu abatalina lukusa okuyingira n’okubba ssente okuyinza okubaawo.
+
+Wadde nga kituufu nti emisingi gya Bitcoin giggumiza okufuga omuntu kinnoomu ku bisumuluzo by’ekyama, wakyaliwo ensonga entuufu okukozesa omukuumi nga Blink. Wallet z’okukuuma zisobola okuwa eby’okwerinda ebirala nga multisig, ekiyinza okuwa layeri ey’obukuumi ey’enjawulo eri ssente z’abakozesa. Okugatta ku ekyo, okukozesa omukuumi kiyinza okuwa emirembe mu mutima eri abakozesa abayinza okuba nga tebamanyi nnyo kuddukanya bisumuluzo byabwe eby’ekyama oba abamala okwagala obulungi n’obwangu bw’okukozesa waleti y’omukuumi bw’esobola okukuwa. Mu nkomerero, okulonda wakati w‟okwelabirira ne waleti y‟okulabirira kujja wansi ku muntu kinnoomu by‟ayagala n‟okugumiikiriza akabi

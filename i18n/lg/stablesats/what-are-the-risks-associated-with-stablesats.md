@@ -1,0 +1,11 @@
+# Obulabe ki obukwatagana ne Stablesats?
+
+Stablesats kintu kisuubiza ekisobozesa abakozesa Lightning okukwata, okusindika, n’okufuna ddoola nga tekyetaagisa kussaako stablecoins oba okukozesa fiat. Naye nga bwe kiri ku kintu kyonna eky’ebyensimbi, waliwo obulabe obukwatagana nabyo abakikozesa bwe balina okumanya.
+
+Ekimu ku bulabe obuli mu kukozesa Stablesats kwe bulabe bw’omukwanaganya n’eky’okuwanyisiganya. Singa eky’okuwanyisiganya kigenda wansi, omusingo guyinza obutaddizibwa. Obulabe buno buzaalibwa mu kintu kyonna ekizingiramu omukuumi ow’okusatu, y’ensonga lwaki kikulu okulonda ekifo eky’okuwanyisiganya erinnya n’okukola okunoonyereza okutuufu nga tonnaba kukozesa kintu kyonna eky’ebyensimbi.
+
+Obulabe obulala obulina okulowoozebwako ye nkola y'okukaka okukendeeza ku bifo eby'enjawulo okusobola okukendeeza ku kufiirwa ng'obukuumi buweddewo. Ekifo kino kiyinza okuggalwa wadde nga kiri mu magoba ekiyinza okuvaako embeera ey’okukuuma obubi. Obulabe buno bwa njawulo ku nkozesa y’ebintu ebiva mu bikozesebwa, era abakozesa balina okumanya obusobozi bw’okukozesa ebintu mu ngeri ey’okwekolako nga bakozesa Stablesats.
+
+Ensimbi bwe bulabe obulala obuyinza okukwatagana ne Stablesats. Mu byafaayo, wabaddewo longs okusinga shorts ku kuwaanyisa okwenjawulo, ekitegeeza nti ensimbi ziyingiza ssente mu bifo ebimpi. Naye kino kiyinza obutaba bwe kityo bulijjo, era ensimbi eziweebwayo ziyinza okugenda mu ngeri etali nnungi okumala ekiseera ekiwanvu. Abakozesa balina okumanya akabi kano n’okulondoola emiwendo gy’ensimbi nga bakozesa Stablesats.
+
+Kikulu okumanya nti Stablesats kintu kipya nnyo, era akabi n’emigaso gyayo bikyasomesebwa era ne byekenneenyezebwa ekibiina kya Bitcoin. Okuyiga ebisingawo ku Stablesats n’akabi akakwatagana nayo, abakozesa basobola okulaba [GitHub repository](https://github.com/GaloyMoney/dealer), okusoma ebikozesebwa ebikwatagana nga [Luna Bros, Inc.](https://blog.bitmex.com/luna-brothers-inc/) (ekitundu kya Bitcoin-Backed Stablecoins) n’ebirowoozo okuva mu [Kollider,](https://twitter.com/kollider_trade/status/1496507594214723590) n’okwebuuza ku bakugu mu by’ensimbi. Nga bategeera akabi n’emigaso gya Stablesats, abakozesa basobola okusalawo mu ngeri ey’amagezi oba okukozesa ekintu kino ku byetaago byabwe eby’ensimbi.

@@ -1,0 +1,3 @@
+# Enkolagana ya intraledger kye ki?
+
+ Enkolagana ya intraledger kitegeeza enkolagana ebeerawo munda mu nkola ya Blink. Kisobozesa abakozesa okuweereza n’okufuna ssente butereevu eri abakozesa Blink abalala nga tekyetaagisa kuyingizaamu waleti oba emikutu egy’ebweru. Enkolagana ya intraledger ya mangu, tezirina buzibu, era tezigula ssente nnyingi, ekigifuula okulonda okulungi ennyo mu nkolagana ya bannaabwe mu kibiina kya Blink. Oba oyagala okusindika ssente eri mukwano gwo, okugula okuva ku musuubuzi w’omu kitundu, oba okusasula ebbanja, okutunda mu bitabo kuwa engeri ennyangu era ennungi ey’okutambuza ssente mu mutimbagano gwa Blink.
