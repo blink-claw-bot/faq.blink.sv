@@ -9,7 +9,7 @@ To send a payment to a Lightning Address:
 
 To receive payments using Lightning Address:
 
-1. Open the settings menu in the top right of your Blink home screen&#x20;
+1. Open the settings menu in the top right of your Blink home screen
 2. Find "Your Blink Address"
 3. Copy your Lightning Address (e.g. username@blink.sv) by clicking on it
-4. Share your Lightning Address with the person who wants to pay you
+4. Share your Lightning Address with the person who wants to pay you\
