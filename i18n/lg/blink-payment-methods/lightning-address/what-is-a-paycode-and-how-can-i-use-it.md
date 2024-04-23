@@ -1,4 +1,4 @@
-# Nnyinza ntya okukozesa ekintu kya Blink ekya Point of Sale?
+# Paycode kye ki era ngikozesa ntya?
 
 Paycode ya Blink yeesigamiziddwa ku nkola ya LNURL. Kisobozesa abakozesa okukola koodi ya QR etali ya kukyukakyuka esobola okukozesebwa okufuna ssente za Lightning. Paycode QR yo ey’enjawulo esobola okulagibwa ku lutimbe oba okukubibwa, ekigifuula engeri ey’enjawulo era ennyangu ey’okukkiriza okusasula mu mbeera ez’enjawulo.
 

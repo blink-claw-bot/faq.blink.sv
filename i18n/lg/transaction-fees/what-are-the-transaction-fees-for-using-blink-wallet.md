@@ -1,0 +1,12 @@
+# Bisale ki ebisasulwa mu kukola emirimu gy’okukozesa waleti ya Blink?
+
+Ebisale bya Blink eby’okutunda bikoleddwa nga bikyukakyuka era nga bikwatagana n’embeera y’akatale eriwo kati okusobola okuwa emiwendo emirungi eri abakozesa baffe. Wansi waliwo emmeeza eraga ebisale ebya wakati ku nkolagana zombi ku lujegere ne Lightning Network, wamu n’ebisale ebisinga wansi n’ebisinga obunene ebitunuuliddwa. Nsaba omanye nti ebisale biyinza okwawukana okusinziira ku nsonga ng’omugotteko gw’omukutu n’abakozesa by’ayagala.
+
+|                      | Emusingo                                               | Okuggyayo ssente                                                                                          |
+|----------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Intraledger**      | Ebisale ku buwereza ebitundu 0%                                          | Ebisale ku buwereza ebitundu 0%                                                                                       |
+| **Lightning**        | Ebisale ku buwereza ebitundu 0% <br>+ Omusindisi asasula ebisale bya LN routing| Ebisale ku buwereza ebitundu 0% <br>+ Ebisale bya Routing (~0.02%  ebisale ku byafayo bya routing okuva ku walleti z'ewabweeru)              |
+| **On-chain**         | **Ku bitereke ebisukka mu 1,000,000 sats:**<br>0% ebisale ku nkola <br><br>**Ku bitereke ebitakka wansi wa sats 1,000,000:**<br>5,000 sats ssente ezitakyukakyuka | 10,000 sats ssente ezitakyukakyuka<br>+ Ebisale by’okusima (byawukana okusinziira ku katale)<br>+Ku butakwatagana obusukka mu 10M sats LN/on-chain buli mwezi: ebisale ebirala 0.2% |
+| **BTC <-> Okukyuusa Doola** | Ebisale ebitekedwaawo ebya $0<br>+ 0.2% okusaasanya                                | Ebisale ebitekedwaawo ebya <br>+ 0.2% okusaasanya                                                                      |
+
+Weetegereze: Okusobola okutegeera obulungi, ssente eziwandiikiddwa wansi wa buli kika ky’okutunda zikuŋŋaanyizibwa. Okugeza, bw’oba ​​oggyayo ssente ku ndagiriro eri ku on-chain, ojja kufuna ssente ezitakyukakyuka eza sats 10,000 + ng’ogasseeko ssente z’okusima (ezikwata ku katale ako akaliwo kati) + singa waleti eba n’ [obutakwatagana bwa sats ezisukka 10M LN/ on-chain](why-does-blink-have-a-lightning-onchain-imbalance-threshold.md) mu mwezi ogugenda: ebisale ebirala 0.2%
