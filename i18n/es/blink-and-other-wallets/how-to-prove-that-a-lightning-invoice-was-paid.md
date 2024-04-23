@@ -4,6 +4,8 @@ En el ámbito de la Lightning Network (LN), una Prueba de Pago (PoP) sirve como 
 
 **¿Cómo funciona la Prueba de Pago en la Lightning Network?**
 
+**¿Cómo funciona la prueba de pago en Lightning Network?**
+
 1. **Generación de factura por el nodo del beneficiario**:
    * El proceso comienza con la creación de una factura de la Red Lightning por parte del nodo del beneficiario. Esta factura no es solo una simple solicitud de pago, sino una estructura compleja que comprende varios elementos cruciales para la transacción. Uno de los componentes críticos de esta factura es un hash criptográfico de un secreto, conocido como 'preimagen de pago'.
 2. **Firma de factura**:
@@ -24,7 +26,7 @@ En el ámbito de la Lightning Network (LN), una Prueba de Pago (PoP) sirve como 
 
 **En resumen, para demostrar que se pagó una factura de relámpago se necesitan dos piezas de información:**
 
-1. La **Factura Lightning** original proporcionada por el nodo
-2. La **preimagen de pago** recibida por el pagador en el pago exitoso
+ 1.La **factura original del rayo** proporcionada por el nodo
+2.La **imagen previa al pago** recibida por el pagador cuando el pago se ha realizado correctamente
 
-Por favor, si estás contactando al equipo de soporte de Blink o a los operadores de otros nodos Lightning, ten esta información a mano.
+Por favor, si se pone en contacto con el equipo de asistencia de Blink o con operadores de otros nodos de rayos, tenga esta información a mano.
