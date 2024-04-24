@@ -1,6 +1,7 @@
 # Connect to the Alby Browser extension on Android
 
-Currently Firefox mobile supports add-ons only on Android. You can take similar steps on a desktop as well using Firefox, Chrome or a compatible browser.
+Currently Firefox mobile supports add-ons only on Android. <br>
+Check out our blogpost covering the similar steps using a desktop [blink.sv/blog/blink-alby](https://www.blink.sv/blog/blink-alby).
 
 1. [Download Firefox](https://www.mozilla.org/en-US/firefox/browsers/mobile/android/) on your Android phone
 2. Open Firefox and choose `Add-ons` from the menu on the upper right
@@ -56,4 +57,3 @@ Currently Firefox mobile supports add-ons only on Android. You can take similar 
 14. Send and receive sats from your Blink BTC wallets in Firefox
 
     <img src="/.gitbook/assets/alby_screenshot14.png" width="300">
-
