@@ -1,0 +1,10 @@
+.env
+
+# Nix builds
+/result
+
+# direnv
+.direnv
+
+# pyhton cache
+.cache
