@@ -1,5 +1,6 @@
 import os
 import logging
+import sys
 from dotenv import load_dotenv
 from llama_index.core import Settings, StorageContext, VectorStoreIndex
 from llama_index.embeddings.openai import OpenAIEmbedding
@@ -16,15 +17,31 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logging.info("Loading environment variables")
 load_dotenv()
 
-OPENAI_API_KEY = os.getenv("GALOY_OPENAI_API_KEY")
-OPENAI_ORG_ID = os.getenv("GALOY_OPENAI_ORG_ID")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 AIRTABLE_ACCESS_TOKEN = os.getenv("AIRTABLE_ACCESS_TOKEN")
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
+# Define the required environment variables with descriptive names for error messages
+required_env_vars = {
+    "OPENAI_API_KEY": OPENAI_API_KEY,
+    "PINECONE_API_KEY": PINECONE_API_KEY,
+    "AIRTABLE_ACCESS_TOKEN": AIRTABLE_ACCESS_TOKEN,
+    "GITHUB_TOKEN": GITHUB_TOKEN
+}
+
+# Check for missing environment variables
+missing_vars = [var for var, value in required_env_vars.items() if value is None]
+if missing_vars:
+    logging.error("Missing environment variables: " + ", ".join(missing_vars))
+    sys.exit(1)  # Exit the program with an error code
+
+# Proceed if all environment variables are set
+logging.info("All required environment variables are set. Continuing with script...")
+
 # Create RAG Index
 logging.info("Create RAG Index")
-Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-large", api_key=OPENAI_API_KEY, organization=OPENAI_ORG_ID)
+Settings.embed_model = OpenAIEmbedding(model="text-embedding-3-large", api_key=OPENAI_API_KEY, organization="CYGcqVcCcbCam01D1FDINCTk")
 vector_store = PineconeVectorStore(index_name="blink-3072")
 storage_context = StorageContext.from_defaults(vector_store=vector_store)
 pc = Pinecone(api_key=PINECONE_API_KEY)

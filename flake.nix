@@ -10,13 +10,13 @@
     flake-utils.lib.eachSystem ["x86_64-linux" "aarch64-linux" "x86_64-darwin" "aarch64-darwin"] (system: let
       pkgs = import nixpkgs {
         inherit system;
-        overlays = [];
       };
       pythonEnv = pkgs.python3.withPackages (ps: with ps; [
         ipykernel
         ipython
         ipywidgets
-        llama-index
+        llama-index-core
+        llama-index-cli
         openai
         pandas
         python-dotenv
@@ -77,9 +77,7 @@
       devShells.default = pkgs.mkShell {
         buildInputs = [ pythonEnv ];
         TIKTOKEN_CACHE_DIR = ".cache/.tiktoken";
-        shellHook = ''
-          echo "The Python environment is ready."
-        '';
+        shellHook = "echo 'The Python environment is ready.'";
       };
     });
 }

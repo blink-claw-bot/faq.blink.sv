@@ -1,0 +1,51 @@
+#@ load("@ytt:data", "data")
+
+jobs:
+- name: pinecone-sync
+  serial: true
+  plan:
+  - in_parallel:
+    - get: galoy-faq
+      trigger: true
+  - task: pinecone-sync
+    config:
+      platform: linux
+      image_resource:
+        type: registry-image
+        source:
+          repository: nixos/nix
+      inputs:
+      - name: galoy-faq
+        path: repo
+      outputs:
+      - name: repo
+      params:
+        PINECONE_API_KEY: #@ data.values.pinecone_api_key
+        OPENAI_API_KEY: #@ data.values.openai_api_key
+        AIRTABLE_ACCESS_TOKEN: #@ data.values.airtable_access_token
+        GITHUB_TOKEN: #@ data.values.github_token
+      run:
+        path: bash
+        args:
+          - -c
+          - |
+            set -eux
+            cd repo
+            nix run --extra-experimental-features "flakes nix-command" .#default -- ./blink-bot-sync.py
+
+resources:
+- name: repo
+  type: git
+  source:
+    ignore_paths: ["ci/*[^md]"]
+    fetch_tags: true
+    uri: #@ data.values.git_uri
+    branch: #@ data.values.git_branch
+    private_key: #@ data.values.github_private_key
+
+- name: galoy-faq
+  type: git
+  source:
+    uri: #@ data.values.git_uri
+    branch: #@ data.values.git_branch
+    private_key: #@ data.values.github_private_key
