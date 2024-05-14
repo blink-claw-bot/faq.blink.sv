@@ -4,7 +4,6 @@ Currently, Blink can be downloaded and activated in most countries as long as yo
 
 However, due to regulatory restrictions, Blink is not offering any services for users from the following countries:
 
-* Azerbaijan
 * Belarus
 * Cuba
 * Iran
@@ -13,7 +12,6 @@ However, due to regulatory restrictions, Blink is not offering any services for 
 * Russia
 * Syria
 * Sri Lanka
-* Uzbekistan
 * United States
 * North Korea
 
