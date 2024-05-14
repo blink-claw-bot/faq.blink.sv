@@ -1,21 +1,21 @@
 # Which countries are unable to download and activate Blink?
 
-Currently, Blink can be downloaded and activated in most countries as long as you have an internet connection and your phone company allows you to receive text messages from our messaging system or through whatsapp.&#x20;
+Currently, Blink can be downloaded and activated in most countries as long as you have an internet connection and your phone company allows you to receive text messages from our messaging system or through whatsapp.
 
 However, due to regulatory restrictions, Blink is not offering any services for users from the following countries:
 
 * Azerbaijan
 * Belarus
 * Cuba
-* Dominican Republic
 * Iran
 * Iraq
+* Myanmar
 * Russia
 * Syria
 * Sri Lanka
 * Uzbekistan
 * United States
-* North Korea&#x20;
+* North Korea
 
 If you are located in one of these countries, you may not be able to use Blink at this time. We apologize for any inconvenience this may cause and recommend that you explore other wallet options that are available to you.
 
