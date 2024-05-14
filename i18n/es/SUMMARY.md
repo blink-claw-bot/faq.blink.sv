@@ -1,4 +1,4 @@
-# Tabla de contenidos
+# Table of contents
 
 * [¿Qué es Blink?](README.md)
 * [Crear una cuenta de Blink](creating-a-blink-account/README.md)
@@ -21,7 +21,7 @@
   * [¿Cómo puedo agregar saldo a mi cuenta de Blink?](using-blink/how-can-i-add-balance-to-my-blink-account.md)
   * [¿Cuáles son los límites de cuenta de Blink?](using-blink/what-are-blinks-account-limits.md)
   * [Actualización a una cuenta de nivel 2](using-blink/how-can-i-change-my-transaction-limits-on-my-blink-account.md)
-  * [Actualización de una cuenta de prueba a nivel 1](using-blink/actualización-de-una-cuenta-de-prueba-a-nivel-1.md)
+  * [Actualización de una cuenta de prueba a nivel 1](using-blink/actualizacion-de-una-cuenta-de-prueba-a-nivel-1.md)
   * [¿Cómo puedo retirar mis fondos de Blink?](using-blink/how-do-i-cash-out-my-blink-funds.md)
   * [¿Cómo funciona la billetera Blink?](using-blink/how-does-blinks-bitcoin-wallet-work.md)
   * [¿Puedo pagar con tarjeta de crédito o débito?](using-blink/can-i-pay-with-a-credit-or-debit-card.md)

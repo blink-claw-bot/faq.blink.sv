@@ -7,9 +7,9 @@ Sin embargo, debido a restricciones regulatorias, Blink no ofrece ningún servic
 * Azerbaiyán
 * Bielorrusia
 * Cuba
-* República Dominicana
 * Irán
 * Irak
+* Myanmar
 * Rusia
 * Siria
 * Sri Lanka
