@@ -103,6 +103,7 @@
   * [How is my money stored in Blink?](custody-and-security/how-is-my-money-stored-in-blink.md)
   * [What is a Multisignature Wallet?](custody-and-security/what-is-a-multisignature-wallet.md)
   * [Can I move my Blink funds to my own custody?](custody-and-security/can-i-move-my-blink-funds-to-my-own-custody.md)
+* [Blink Voucher](blink-voucher.md)
 * [Integrations](integrations/README.md)
   * [Connect to the Alby Browser extension on Android](integrations/connect-to-the-alby-browser-extension-on-android.md)
   * [Connect to BTCPay Server](integrations/connect-to-btcpay-server.md)
