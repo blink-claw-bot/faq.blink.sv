@@ -18,6 +18,7 @@
   * [How can I delete my Blink account?](creating-a-blink-account/how-can-i-delete-my-blink-account.md)
 * [Using Blink](using-blink/README.md)
   * [What will I find on the main screen of my Blink account?](using-blink/what-will-i-find-on-the-main-screen-of-my-blink-account.md)
+  * [Why do I see a balance of 0 when I log in to my account?](using-blink/why-do-i-see-a-balance-of-0-when-i-log-in-to-my-account.md)
   * [How do I receive a transaction with Blink?](using-blink/how-do-i-receive-a-transaction-with-blink.md)
   * [How do I send a transaction with Blink?](using-blink/how-do-i-send-a-transaction-with-blink.md)
   * [Which methods can I use to send and receive transactions using Blink](using-blink/which-methods-can-i-use-to-send-and-receive-transactions-using-blink.md)
