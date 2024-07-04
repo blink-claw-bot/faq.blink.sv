@@ -1,13 +1,13 @@
 # ¿Qué países no pueden descargar y activar Blink?
 
-Actualmente, Blink se puede descargar y activar en la mayoría de los países siempre y cuando tengas una conexión a internet y tu compañía telefónica te permita recibir mensajes de texto de nuestro sistema de mensajería o a través de WhatsApp.
+Actualmente, Blink puede descargarse y activarse en la mayoría de los países siempre que dispongas de conexión a Internet y tu compañía telefónica te permita recibir mensajes de texto de nuestro sistema de mensajería o a través de whatsapp.
 
 Sin embargo, debido a restricciones regulatorias, Blink no ofrece ningún servicio para usuarios de los siguientes países.
 
-* Bielorrusia
+* Belarús
 * Cuba
-* Irán
-* Irak
+* Iran
+* Iraq
 * Myanmar
 * Rusia
 * Siria
@@ -15,6 +15,6 @@ Sin embargo, debido a restricciones regulatorias, Blink no ofrece ningún servic
 * Estados Unidos
 * Corea del Norte
 
-Si te encuentras en alguno de estos países, es posible que no puedas utilizar Blink en este momento. Nos disculpamos por cualquier inconveniente que esto pueda causar y te recomendamos que explores otras opciones de billetera que estén disponibles para ti.
+Si te encuentras en uno de estos países, es posible que no puedas utilizar Blink en este momento. Sentimos las molestias que esto pueda causarte y te recomendamos que explores otras opciones de monedero disponibles.
 
-Si tienes problemas para descargar Blink o no está disponible en tu región, te sugerimos que pruebes Phoenix wallet como una billetera alternativa para Lightning. Puedes encontrar enlaces de descarga en su sitio web: [https://phoenix.acinq.co/](https://phoenix.acinq.co/). Ten en cuenta que aunque puede que no tenga todas las características de Blink, Phoenix también es una billetera confiable y fácil de usar para transacciones de Lightning.
+Si tienes problemas para descargar Blink o no está disponible en tu región, te sugerimos que pruebes Phoenix wallet como alternativa a Lightning wallet. Puedes encontrar enlaces de descarga en su página web: [https://phoenix.acinq.co/](https://phoenix.acinq.co/). Ten en cuenta que, aunque puede que no tenga todas las funciones de Blink, Phoenix también es un monedero de buena reputación y fácil de usar para transacciones Lightning.
