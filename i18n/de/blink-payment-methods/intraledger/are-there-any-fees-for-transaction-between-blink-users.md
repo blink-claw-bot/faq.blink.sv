@@ -1,0 +1,3 @@
+# Gibt es irgendwelche Gebühren für Transaktionen zwischen Blink-Nutzern?
+
+Nein, es fallen keine Gebühren für Transaktionen zwischen Blink-Nutzern an. Wenn Sie Bitcoin innerhalb des Blink-Ökosystems senden oder empfangen, sei es durch On-Chain-Transaktionen, Lightning Network-Zahlungen oder LNURL-Transaktionen, gibt es keine zusätzlichen Gebühren, die von Blink erhoben werden. Sie können Geldbeträge frei zwischen Blink Wallets senden und empfangen, ohne dass Gebühren anfallen. Dies macht Blink zu einer attraktiven Option für Nutzer, die Bitcoin transferieren möchten, ohne sich über Transaktionsgebühren Gedanken machen zu müssen, und ermöglicht nahtlose und kostengünstige Peer-to-Peer-Transaktionen innerhalb der Blink-Community.

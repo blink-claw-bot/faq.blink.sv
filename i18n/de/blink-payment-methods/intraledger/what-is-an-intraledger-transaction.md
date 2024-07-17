@@ -1,0 +1,3 @@
+# Was ist eine intraledger Transaktion?
+
+Eine Intraledger-Transaktion bezieht sich auf eine Transaktion, die innerhalb des Blink-Ökosystems stattfindet. Sie ermöglicht es Nutzern, Zahlungen direkt an andere Blink-Nutzer zu senden und zu empfangen, ohne externe Wallets oder Netzwerke einbeziehen zu müssen. Intraledger-Transaktionen sind schnell, nahtlos und kosteneffektiv, was sie zu einer idealen Wahl für Peer-to-Peer-Transaktionen innerhalb der Blink-Community macht. Ganz gleich, ob Sie einem Freund Geld schicken, bei einem lokalen Händler einkaufen oder eine Schuld begleichen möchten, Intraledger-Transaktionen bieten eine bequeme und effiziente Möglichkeit, Geld innerhalb des Blink-Netzwerks zu überweisen.
