@@ -1,9 +1,5 @@
 # ¿Cómo puedo agregar mi negocio al mapa de comerciantes de Blink?
 
-Si desea agregar su negocio al mapa de Blink, siga estos sencillos pasos:
+Para añadir tu negocio al mapa de comercios de Blink, puedes visitar directamente [map.blink.sv](https://map.blink.sv/). Una vez allí, puedes añadir tu negocio proporcionando las coordenadas de latitud y longitud de tu establecimiento. Esto garantizará que su negocio esté representado con precisión en el mapa para que los usuarios puedan descubrirlo.
 
-1. Crear una billetera Blink utilizando un nombre de usuario para tu negocio.
-2. Contacta al equipo de soporte de Blink y proporciona una captura de pantalla de tu nombre de usuario, así como el nombre de tu negocio y las coordenadas GPS (o comparte tu ubicación a través de WhatsApp).
-3. Una vez que hayas proporcionado toda la información necesaria, el equipo de soporte de Blink confirmará tu listado de negocios en el mapa.
-
-Al agregar tu negocio al mapa de BBW, facilitará que los clientes potenciales te encuentren y paguen con Bitcoin utilizando la aplicación Blink. No dudes en contactar a nuestro equipo de soporte si tienes alguna pregunta o necesitas ayuda con el proceso.
+Al añadir tu negocio al Mapa de Comercios de Blink, facilitarás que tus clientes potenciales te encuentren y paguen con Bitcoin usando la app de Blink. No dudes en contactar con nuestro equipo de soporte si tienes alguna pregunta o necesitas ayuda con el proceso.

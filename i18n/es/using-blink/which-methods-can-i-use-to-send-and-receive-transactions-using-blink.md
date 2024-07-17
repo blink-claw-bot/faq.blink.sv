@@ -6,7 +6,7 @@
 | On-Chain              | Sí      | Sí        |
 | Dirección Lightning     | Sí      | Sí        |
 | Lista de contactos\*        | Sí\*    | Sí\*      |
-| Caja registradora aplicación web | No       | Sí        |
+| Aplicación web de punto de venta | No       | Sí        |
 | LNURL Paycode         | No       | Sí        |
 
-*Con la lista de contactos puedes enviar y recibir mensajes solo a otros usuarios de Blink. y necesitas hacer al menos una transacción con este usuario para agregarlo a la "Lista de contactos".
+\*Con la lista de contactos sólo puedes enviar y recibir a otros usuarios de Blink. Tendrá que realizar al menos una transacción con este usuario para añadirlo a la "Lista de contactos".
