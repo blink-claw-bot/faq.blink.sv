@@ -1,4 +1,4 @@
-# What is Blink "Inner Circles?
+# What are Inner Circles"?
 
 Your **Inner Circle** consists of all the Blink users whom you have personally introduced to the world of Bitcoin by sending them their first satoshis from your Blink account to their Blink account.
 
