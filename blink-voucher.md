@@ -10,7 +10,7 @@ description: App for creation of Dollar / Bitcoin Vouchers
 * Zero upfront cost / commitment
 * Ideal for exchange offices in cash based economies
 * 65 currency pairs and growing
-* The cost is: 0.2% Platform Fee for Blink
+* The cost is: 1% Platform Fee for Blink
 * Pay the voucher from the BTC or USD Account
 * Optimized for the Bitcoinize POS device
 * More low-cost printer options are planned
