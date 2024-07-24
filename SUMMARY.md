@@ -106,6 +106,7 @@
   * [Do I get paid for sharing my invite link or adding people to my circles?](blink-circles/do-i-get-paid-for-sharing-my-invite-link-or-adding-people-to-my-circles.md)
 * [Security Settings](security-settings/README.md)
   * [2FA](security-settings/2fa.md)
+  * [On-Device Security](security-settings/on-device-security.md)
 * [Custody & Security](custody-and-security/README.md)
   * [How is my money stored in Blink?](custody-and-security/how-is-my-money-stored-in-blink.md)
   * [What is a Multisignature Wallet?](custody-and-security/what-is-a-multisignature-wallet.md)
