@@ -117,4 +117,5 @@
 * [Integrations](integrations/README.md)
   * [Connect to the Alby Browser extension on Android](integrations/connect-to-the-alby-browser-extension-on-android.md)
   * [Connect to BTCPay Server](integrations/connect-to-btcpay-server.md)
+  * [Set your Blink account as an LNbits funding source](integrations/set-your-blink-account-as-an-lnbits-funding-source.md)
 * [Demo videos](demo-videos.md)
