@@ -2,7 +2,7 @@
 
 Como la billetera Blink es software libre de código abierto, la aplicación se publica y se puede instalar desde las versiones en GitHub. La instalación de apps de terceros sólo está permitida en Android, no en iOS. Sigue estos pasos para instalar la aplicación desde GitHub:
 
-1. Abre el enlace [github.com/GaloyMoney/galoy-mobile/releases/latest](https://github.com/GaloyMoney/galoy-mobile/releases/latest) en tu teléfono Android para descargar la última versión de la aplicación Blink.
+1. Abre el enlace [github.com/GaloyMoney/blink-mobile/releases/latest](https://github.com/GaloyMoney/blink-mobile/releases/latest) en tu teléfono Android para descargar la última versión de la aplicación Blink.
 2. Desplázate hacia abajo en la página hasta `Assets` y elige `app-universal-release.apk` para obtener la mejor compatibilidad.<br>
 El `app-arm64-v8a-release.apk` es más pequeño pero podría no funcionar en dispositivos antiguos.
 

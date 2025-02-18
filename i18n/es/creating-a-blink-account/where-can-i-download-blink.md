@@ -7,6 +7,6 @@ Si no puedes encontrar la aplicación en estas tiendas, puede ser debido a una d
 * Su tienda de aplicaciones puede estar registrada en un país que no permite la descarga o uso de este tipo de billetera debido a regulaciones internas. Ejemplos de estos países incluyen Estados Unidos y Corea del Norte, encuentra la lista completa en esta respuesta: [¿Qué países no pueden descargar y activar Blink?](https://faq.blink.sv/creating-a-blink-account/which-countries-are-unable-to-download-and-activate-blink)
 * En algunos teléfonos Huawei, es posible que necesites instalar Google Play Services y Google Play Store antes de poder descargar la aplicación.
 
-Los usuarios de GrapheneOS, CalyxOS, LineageOS y otros dispositivos Android pueden [descargar e instalar Blink directamente a través de un APK](https://github.com/GaloyMoney/galoy-mobile/releases).
+Los usuarios de GrapheneOS, CalyxOS, LineageOS y otros dispositivos Android pueden [descargar e instalar Blink directamente a través de un APK](https://github.com/GaloyMoney/blink-mobile/releases).
 
 Tenga en cuenta que la disponibilidad de la aplicación puede variar según su ubicación y dispositivo, por lo que siempre es una buena idea verificar primero en la tienda de aplicaciones.

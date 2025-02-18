@@ -7,6 +7,6 @@ Bw'oba tosobola kufuna pulogulaamu ku matterekero gano, kiyinza okuba nga kiva k
 * App store yo eyinza okuba nga yawandiisibwa mu nsi etakkiriza kuwanula oba kuteeka oba kukozesa waleti ey’ekika kino olw’amateeka ag’omunda. Eby’okulabirako by’amawanga ng’ago mulimu USA ne North Korea, funa olukalala olujjuvu mu kuddamu kuno: [Mawanga ki agatasobola kuwanula na kukola Blink?](https://faq.blink.sv/creating-a-blink-account/which-countries-are-unable-to-download-and-activate-blink)
 * Ku ssimu ezimu eza Huawei, oyinza okwetaaga okuteekawo Google Play Services ne Google Play Store nga tonnaba kuggyayo pulogulaamu eno.
 
-Abakozesa GrapheneOS, CalyxOS, LineageOS n'ebikozesebwa ebirala ebya Android basobola [okuggyayo n'okuteeka Blink butereevu ku APK](https://github.com/GaloyMoney/galoy-mobile/releases).
+Abakozesa GrapheneOS, CalyxOS, LineageOS n'ebikozesebwa ebirala ebya Android basobola [okuggyayo n'okuteeka Blink butereevu ku APK](https://github.com/GaloyMoney/blink-mobile/releases).
 
 Weetegereze nti okubeerawo kwa pulogulaamu eno kuyinza okwawukana okusinziira ku kifo n'ekyuma kyo, n'olwekyo bulijjo kirungi okusooka okukebera app store.

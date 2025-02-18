@@ -2,7 +2,7 @@
 
 As the Blink wallet is Free Open Source Software the app is published and can be installed from the releases on GitHub. Installing third party apps is only allowed on Android, not on iOS. Follow these steps to install the app from GitHub:
 
-1. Open the link [github.com/GaloyMoney/galoy-mobile/releases/latest](https://github.com/GaloyMoney/galoy-mobile/releases/latest) on your Android phone to download the latest release of the Blink app
+1. Open the link [github.com/GaloyMoney/blink-mobile/releases/latest](https://github.com/GaloyMoney/blink-mobile/releases/latest) on your Android phone to download the latest release of the Blink app
 2. Scroll down on the page to `Assets` and choose the `app-universal-release.apk` for the best compatibility.<br>
 The `app-arm64-v8a-release.apk` is smaller but might not work on old devices.
 

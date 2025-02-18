@@ -2,7 +2,7 @@
 
 Nga waleti ya Blink bweri Softiware Enzigule eri buli muntu efulumizibwa era esobola okuteekebwa okuva ku bifulumiziddwa ku GitHub. Okuteeka apps z’ekibiina eky’okusatu kikkirizibwa ku Android yokka, so si ku iOS. Goberera emitendera gino okuteeka app okuva ku GitHub:
 
-1. Ggulawo enkolagana [github.com/GaloyMoney/galoy-mobile/releases/latest](https://github.com/GaloyMoney/galoy-mobile/releases/latest) ku ssimu yo eya Android okuwanulayo ekisembyeyo okufulumizibwa mu pulogulaamu ya Blink
+1. Ggulawo enkolagana [github.com/GaloyMoney/blink-mobile/releases/latest](https://github.com/GaloyMoney/blink-mobile/releases/latest) ku ssimu yo eya Android okuwanulayo ekisembyeyo okufulumizibwa mu pulogulaamu ya Blink
 2. Ssenda wansi ku lupapula ku `Assets` era olonde `app-universal-release.apk` okusobola okukwatagana obulungi.<br>
 `app-arm64-v8a-release.apk` ntono naye eyinza obutakola ku massimu amakadde.
 
