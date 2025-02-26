@@ -51,7 +51,7 @@ pc.describe_index(INDEX)
 # Load FAQ
 logging.info("Load FAQ")
 github_client = GithubClient(GITHUB_TOKEN)
-repo_owner = "GaloyMoney"
+repo_owner = "blinkbitcoin"
 repo_name = "faq.blink.sv"
 repo_branch = "main"
 loader = GithubRepositoryReader(

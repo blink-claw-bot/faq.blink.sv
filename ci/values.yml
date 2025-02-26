@@ -1,10 +1,10 @@
 #@data/values
 ---
-git_uri: git@github.com:GaloyMoney/faq.blink.sv.git
+git_uri: git@github.com:blinkbitcoin/faq.blink.sv.git
 git_branch: main
-github_private_key: ((github.private_key))
+github_private_key: ((github-blinkbitcoin.private_key))
 
 openai_api_key: ((pinecone-sync.openai_api_key))
 pinecone_api_key: ((pinecone-sync.pinecone_api_key))
 airtable_access_token: ((pinecone-sync.airtable_access_token))
-github_token: ((github.api_token))
+github_token: ((github-blinkbitcoin.api_token))
