@@ -82,6 +82,7 @@
   * [Why does Blink have a Lightning - onchain imbalance threshold?](transaction-fees/why-does-blink-have-a-lightning-onchain-imbalance-threshold.md)
   * [What are the fees for receiving Bitcoin in my Blink wallet?](transaction-fees/what-are-the-fees-for-receiving-bitcoin-in-my-blink-wallet.md)
   * [What are the fees for converting Bitcoin to or from Stablesats?](transaction-fees/what-are-the-fees-for-converting-bitcoin-to-or-from-stablesats.md)
+  * [What is a fee reimbursement in Blink, and when does it happen?](transaction-fees/what-is-a-fee-reimbursement-in-blink-and-when-does-it-happen.md)
 * [Buy and Sell Bitcoin](buy-and-sell-bitcoin/README.md)
   * [Which accounts can buy and sell bitcoin with Blink?](buy-and-sell-bitcoin/which-accounts-can-buy-and-sell-bitcoin-with-blink.md)
   * [How to buy bitcoin with Blink?](buy-and-sell-bitcoin/how-to-buy-bitcoin-with-blink.md)
