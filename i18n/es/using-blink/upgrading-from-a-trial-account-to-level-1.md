@@ -6,7 +6,6 @@ Una cuenta de prueba tiene límites de transacciones bajos y no se permite envia
 
 Actualizar a una cuenta de nivel 1 viene con beneficios:
 
-
 * límites de transacción aumentados
 * habilidad para recuperar la cuenta utilizando el número de teléfono registrado con SMS / WhatsApp o correo electrónico
 * habilitar funciones como enviar y recibir en la cadena, establecer un nombre de usuario, dirección de lightning, página web de punto de venta / caja registradora, código de pago estático, etc.

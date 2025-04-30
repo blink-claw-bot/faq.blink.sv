@@ -7,7 +7,6 @@ Como la billetera Blink es software libre de código abierto, la aplicación se 
 El `app-arm64-v8a-release.apk` es más pequeño pero podría no funcionar en dispositivos antiguos.
 
     <img src="/.gitbook/assets/apk_screenshot01.png" width="300">
-
 1. Confirm with `Download anyway` and wait for the download to finish
 
     <img src="/.gitbook/assets/apk_screenshot02.png" width="300">

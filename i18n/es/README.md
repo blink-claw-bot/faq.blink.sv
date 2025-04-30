@@ -19,7 +19,7 @@ description: La billetera de Bitcoin cotidiana nacida en El Zonte
 
     \- Gana sats y aprende sobre Bitcoin con el cuestionario dentro de la aplicación
 
-    - El registro de transacciones muestra un historial de pagos
+    El registro de transacciones muestra un historial de pagos
 
     \- La lista de contactos facilita el envío de pagos a amigos y familiares.
 

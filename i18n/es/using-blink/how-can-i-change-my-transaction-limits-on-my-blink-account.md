@@ -6,7 +6,6 @@ Actualizar tu cuenta al nivel 2 vendrá con beneficios.
 * acceso a [transferir a cuentas bancarias en países seleccionados](https://faq.blink.sv/using-blink/how-do-i-cash-out-my-blink-funds)
 * posible recuperación a través del soporte si pierdes acceso a tu cuenta
 
-
 Para completar el proceso, deberás proporcionar datos adicionales para ser verificados: tu nombre, un documento de identidad emitido por el gobierno y una selfie.
 
 Siga estos pasos para actualizar tu cuenta:
