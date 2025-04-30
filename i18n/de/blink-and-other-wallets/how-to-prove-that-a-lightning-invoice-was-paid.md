@@ -24,7 +24,6 @@ Im Bereich des Lightning Network (LN) dient ein Proof of Payment (PoP) als über
 
 **Zum Nachweis, dass eine Lightning Invoice bezahlt wurde, sind zwei Informationen erforderlich:**
 
-   1. Die vom Node bereitgestellte orginale **Lightning Rechnung** 
-   2. Das **Zahlungs Preimage**, dass der Zahler bei erfolgreicher Zahlung erhält
+Die vom Node bereitgestellte orginale **Lightning Rechnung** 
 
-Bitte halten Sie diese Informationen bereit, wenn Sie sich an das Blink-Supportteam oder an Betreiber anderer Lightning Nodes wenden.
+Das **Zahlungs Preimage**, dass der Zahler bei erfolgreicher Zahlung erhält
