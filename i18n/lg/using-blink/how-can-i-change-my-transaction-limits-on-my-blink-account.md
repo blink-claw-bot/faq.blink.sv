@@ -6,7 +6,6 @@ Okulongoosa omutindo okutuuka ku mutendera 2 ogwa akawunti kijja kujja ne'migaso
 * okutuuka ku [okukyusa ku akawunti za bbanka mu nsi ezirondeddwa](https://faq.blink.sv/using-blink/how-do-i-cash-out-my-blink-funds)
 * oyinza okuyitira mu buyambi bw'oba tosobodde kufuna akawunti yo
 
-
 Okumaliriza enkola eno kijja kwetaagisa okuwaayo ebiwandiiko ebirala okukakasibwa: erinnya lyo, ndagamuntu n'ekifaananyi kya selfie.&#x20;
 
 Goberera bino w'amanga okulinyisa omutindo gwa akawunti yo:

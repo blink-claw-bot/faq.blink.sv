@@ -4,7 +4,7 @@ Ebisale bya Blink eby’okutunda bikoleddwa nga bikyukakyuka era nga bikwatagana
 
 |                      | Emusingo                                               | Okuggyayo ssente                                                                                          |
 |----------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| **Intraledger**      | Ebisale ku buwereza ebitundu 0%                                          | Ebisale ku buwereza ebitundu 0%                                                                                       |
+| **Intraledger**      | Ebisale ku buwereza ebitundu 0%                                         | Ebisale ku buwereza ebitundu 0%                                                                                      |
 | **Lightning**        | Ebisale ku buwereza ebitundu 0% <br>+ Omusindisi asasula ebisale bya LN routing| Ebisale ku buwereza ebitundu 0% <br>+ Ebisale bya Routing (~0.02%  ebisale ku byafayo bya routing okuva ku walleti z'ewabweeru)              |
 | **On-chain**         | **Ku bitereke ebisukka mu 1,000,000 sats:**<br>0% ebisale ku nkola <br><br>**Ku bitereke ebitakka wansi wa sats 1,000,000:**<br>5,000 sats ssente ezitakyukakyuka | 10,000 sats ssente ezitakyukakyuka<br>+ Ebisale by’okusima (byawukana okusinziira ku katale)<br>+Ku butakwatagana obusukka mu 10M sats LN/on-chain buli mwezi: ebisale ebirala 0.2% |
 | **BTC <-> Okukyuusa Doola** | Ebisale ebitekedwaawo ebya $0<br>+ 0.2% okusaasanya                                | Ebisale ebitekedwaawo ebya <br>+ 0.2% okusaasanya                                                                      |
