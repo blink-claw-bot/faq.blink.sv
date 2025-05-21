@@ -11,7 +11,6 @@ However, due to regulatory restrictions, Blink is not offering any services for 
 * Russia
 * Crimea-Ukraine
 * Myanmar
-* United States
 * Puerto Rico
 
 If you are located in one of these countries, you may not be able to use Blink at this time. We apologize for any inconvenience this may cause and recommend that you explore other wallet options that are available to you.

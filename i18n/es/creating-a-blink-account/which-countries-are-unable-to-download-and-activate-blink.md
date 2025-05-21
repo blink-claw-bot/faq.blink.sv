@@ -12,8 +12,6 @@ Sin embargo, debido a restricciones regulatorias, Blink no ofrece ningún servic
 * Rusia
 * Siria
 * Sri Lanka
-* Estados Unidos
-
-Corea del Norte
+* Corea del Norte
 
 Si te encuentras en uno de estos países, es posible que no puedas utilizar Blink en este momento. Sentimos las molestias que esto pueda causarte y te recomendamos que explores otras opciones de monedero disponibles.

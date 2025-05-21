@@ -13,7 +13,4 @@ Wabula olw’obukwakkulizo obuli mu mateeka, Blink tewa mpeereza yonna eri abako
 * Russia
 * Syria
 * Sri Lanka
-
-Uzbekistan
-
-Amawanga Amagatte
+* Uzbekistan
