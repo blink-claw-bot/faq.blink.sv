@@ -1,0 +1,3 @@
+# Pourquoi le portefeuille Earn est-il épuisé?
+
+Le portefeuille Earn peut parfois être épuisé, car nous ajoutons régulièrement des fonds pour garantir une expérience de gain durable pour nos utilisateurs. Si vous constatez que votre portefeuille Earn est actuellement vide, nous vous recommandons d'essayer à nouveau dans les prochains jours. Le portefeuille Earn sera réapprovisionné avec de nouveaux fonds dans les 24 heures pour continuer à soutenir vos activités de gain. Nous vous remercions de votre patience et de votre compréhension. Si vous avez d'autres questions ou préoccupations, n'hésitez pas à contacter notre équipe d'assistance pour obtenir de l'aide.

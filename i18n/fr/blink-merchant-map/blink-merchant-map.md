@@ -1,0 +1,3 @@
+# Carte des commerçants Blink
+
+Bienvenue dans la section Carte des commerçants de la FAQ Blink. Dans cette section, nous répondrons aux questions fréquemment posées concernant la fonctionnalité de la Carte des commerçants disponible dans l'application Blink. La Carte des commerçants vous permet de trouver facilement les commerçants de votre région qui acceptent le Bitcoin comme moyen de paiement, rendant ainsi l'utilisation de votre Bitcoin plus simple au quotidien. Que vous cherchiez un café ou un magasin de vêtements, la Carte des commerçants est là pour vous. Plongeons maintenant dans les questions les plus courantes sur cette fonctionnalité.

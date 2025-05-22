@@ -1,0 +1,3 @@
+# Frais de transaction
+
+Les frais de transaction sont un élément important à prendre en compte lors de l'utilisation du portefeuille Blink pour envoyer ou recevoir des paiements en Bitcoin. Les frais peuvent varier en fonction de la méthode de transaction utilisée, qu'il s'agisse de transactions intraledger, on-chain ou du Lightning Network. Dans cette section, nous aborderons les questions fréquemment posées sur les frais de transaction, y compris comment définir les frais, quels facteurs affectent les frais et comment garantir que votre transaction soit traitée de manière efficace tout en maintenant des frais bas.

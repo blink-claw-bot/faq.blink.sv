@@ -1,0 +1,3 @@
+# Y a-t-il des frais pour les transactions entre utilisateurs de Blink?
+
+Non, il n’y a aucun frais pour les transactions entre utilisateurs de Blink. Lorsque vous envoyez ou recevez des bitcoins au sein de l’écosystème Blink — que ce soit par des transactions on-chain, des paiements via le Lightning Network ou des transactions LNURL — aucun frais supplémentaire n’est imposé par Blink. Vous pouvez librement envoyer et recevoir des fonds entre portefeuilles Blink sans encourir de frais. Cela fait de Blink une option intéressante pour les utilisateurs souhaitant transférer des bitcoins sans se soucier des frais de transaction, permettant ainsi des échanges pair-à-pair fluides et économiques au sein de la communauté Blink.

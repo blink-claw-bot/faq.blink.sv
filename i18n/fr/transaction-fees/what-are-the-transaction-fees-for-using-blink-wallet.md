@@ -1,0 +1,12 @@
+# Quels sont les frais de transaction pour utiliser le portefeuille Blink?
+
+Les frais de transaction de Blink sont conçus pour être dynamiques et s'adapter aux conditions du marché actuel afin d'offrir les meilleurs prix possibles à nos utilisateurs. Voici un tableau qui montre les frais moyens pour les transactions on-chain et Lightning Network, ainsi que les frais les plus bas et les plus élevés observés. Veuillez noter que les frais peuvent varier en fonction de facteurs tels que la congestion du réseau et les préférences des utilisateurs.
+
+|                      | Dépôts                                               | Retraits                                                                                          |
+|----------------------|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| **Intraledger**      | Frais de service de 0 %                                         | Frais de service de 0 %                                                                                      |
+| **Lightning**        | Frais de service de 0 %<br>+ L'expéditeur paie les frais de routage LN.| Frais de service de 0 %<br>+ Frais de routage (~0,02 % de frais de routage historiques pour les portefeuilles externes)              |
+| **On-chain**         | **Pour les dépôts supérieurs à 1 000 000 sats :**<br>Frais de service de 0 %<br><br>**Pour les dépôts inférieurs à 1 000 000 sats :**<br>Frais fixes de 5 000 sats | Frais fixes de 10 000 sats<br>+ Frais de minage (varient en fonction du marché)<br>+ Pour un déséquilibre de plus de 10 millions de sats LN/on-chain par mois : frais supplémentaires de 0,2 % |
+| **BTC <-> Conversion en dollars** | Frais fixes de 0 $<br>+ Écart de 0,2 %                                | Frais fixes de 0 $<br>+ Écart de 0,2 %                                                                      |
+
+Note : Pour plus de clarté, les frais indiqués pour chaque type de transaction sont cumulatifs. Par exemple, si vous effectuez un retrait vers une adresse on-chain, vous devrez payer les frais fixes de 10 000 sats + les frais de minage (appliqués en fonction du marché actuel) + si le portefeuille présente un [déséquilibre de plus de 10 millions de sats LN/on-chain] (why-does-blink-have-a-lightning-onchain-imbalance-threshold.md) sur un mois glissant : des frais supplémentaires de 0,2 %.

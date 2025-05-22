@@ -24,6 +24,7 @@ Dans le domaine du Lightning Network (LN), une preuve de paiement (Proof of Paym
 
 **En résumé, pour prouver qu’une facture Lightning a été payée, deux éléments sont nécessaires**:
 
-La **facture Lightning** originale fournie par le nœud
+1.  La **facture Lightning** originale fournie par le nœud
+2. La **pré-image de paiement** reçue par le payeur après le paiement réussi
 
-La **pré-image de paiement** reçue par le payeur après le paiement réussi
+Veuillez, s’il vous plaît, avoir ces informations à portée de main si vous contactez l’équipe d’assistance de Blink ou les opérateurs d’autres nœuds Lightning.

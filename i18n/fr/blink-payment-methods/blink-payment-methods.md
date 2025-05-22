@@ -1,0 +1,10 @@
+# Méthodes de paiement Blink
+
+Bienvenue dans la section des méthodes de paiement de notre FAQ, où nous vous proposons un aperçu complet des méthodes de paiement prises en charge par Blink. Voici les méthodes de paiement disponibles sur Blink:
+
+1. **Transactions on-chain :** Blink prend en charge les transactions Bitcoin traditionnelles sur la blockchain. Cette méthode consiste à enregistrer les transactions directement sur la blockchain Bitcoin. Vous pouvez envoyer et recevoir des bitcoins en saisissant l’adresse Bitcoin du destinataire ainsi que le montant souhaité.
+2. **Paiements via le Lightning Network :** Blink permet les paiements via le Lightning Network, qui offrent des transactions plus rapides et moins coûteuses. Le Lightning Network est une couche construite au-dessus du réseau Bitcoin qui permet des paiements quasi instantanés avec des frais réduits. Vous pouvez envoyer et recevoir des paiements Lightning en utilisant des factures du Lightning Network.
+3. **LNURL :** Blink prend également en charge le protocole LNURL, qui signifie Lightning Network URL. LNURL simplifie le processus d’envoi et de réception de paiements Lightning en générant des liens de paiement uniques. Les utilisateurs peuvent simplement cliquer sur le lien LNURL pour lancer le processus de paiement, ce qui rend l’expérience pratique et facile à utiliser.
+4. **Transactions intraledger :** Avec Blink, vous pouvez également effectuer des transactions intraledger, qui permettent d’envoyer et de recevoir des paiements au sein de l’écosystème Blink. Cette fonctionnalité garantit des transferts fluides et instantanés entre les utilisateurs de Blink, améliorant ainsi l’expérience globale de paiement.
+
+Que vous préfériez les transactions on-chain, les paiements via le Lightning Network, LNURL ou les transactions intraledger, Blink vous offre une plateforme polyvalente pour répondre à vos besoins en matière de paiements Bitcoin. Découvrez les différentes méthodes de paiement prises en charge par Blink et profitez d’un moyen sécurisé et pratique pour envoyer et recevoir des paiements en bitcoins.
