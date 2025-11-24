@@ -1,9 +1,11 @@
 # Which countries are unable to download and activate Blink?
 
-Currently, Blink can be downloaded and activated in most countries as long as you have an internet connection and your phone company allows you to receive text messages from our messaging system or through whatsapp.
+Currently, Blink can be downloaded and activated in most countries as long as you have an internet connection and your phone company allows you to receive text messages from our messaging system or through Whatsapp.
 
 However, due to regulatory restrictions, Blink is not offering any services for users from the following countries:
 
+* United States
+* Hong Kong
 * Cuba
 * Iran
 * North Korea
