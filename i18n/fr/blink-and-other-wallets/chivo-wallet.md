@@ -1,5 +1,5 @@
 # Chivo Wallet
-Le portefeuille Chivo est le portefeuille Bitcoin officiel du Salvador. Il s’agit d’un portefeuille custodial, disponible sur les appareils Android et iOS. Ce portefeuille est intégré au réseau de distributeurs automatiques Chivo, ce qui permet aux utilisateurs de retirer et de déposer de l’argent liquide dans plus de 200 distributeurs répartis à travers le pays. Le portefeuille prend également en charge les paiements via le réseau Lightning (bien que cela ne soit pas affiché par défaut), ce qui permet aux utilisateurs d’envoyer et de recevoir des bitcoins instantanément et avec de faibles frais.
+Le portefeuille Chivo est le portefeuille Bitcoin officiel du Salvador. Il est disponible sur les appareils Android et iOS. Ce portefeuille est intégré au réseau de distributeurs automatiques Chivo, ce qui permet aux utilisateurs de retirer et de déposer de l’argent liquide dans plus de 200 distributeurs répartis à travers le pays. Le portefeuille prend également en charge les paiements via le réseau Lightning (bien que cela ne soit pas affiché par défaut), ce qui permet aux utilisateurs d’envoyer et de recevoir des bitcoins instantanément et avec de faibles frais.
 
 ## Recevoir via Lightning avec Chivo
   - Lors de la réception, Chivo affiche par défaut la méthode on-chain, qui peut être coûteuse et lente.

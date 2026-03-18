@@ -1,5 +1,5 @@
 # Chivo wallet
-La billetera Chivo es la billetera oficial de Bitcoin de El Salvador. Es una billetera custodial que está disponible tanto para dispositivos Android como iOS. La billetera está integrada con la red de cajeros automáticos Chivo, lo que permite a los usuarios retirar y depositar efectivo en cualquiera de los más de 200 cajeros automáticos ubicados en todo el país. La billetera también admite pagos Lightning (pero no muestra eso de forma predeterminada), lo que permite a los usuarios enviar y recibir Bitcoin al instante y con tarifas bajas.
+La billetera Chivo es la billetera oficial de Bitcoin de El Salvador. Está disponible tanto para dispositivos Android como iOS. La billetera está integrada con la red de cajeros automáticos Chivo, lo que permite a los usuarios retirar y depositar efectivo en cualquiera de los más de 200 cajeros automáticos ubicados en todo el país. La billetera también admite pagos Lightning (pero no muestra eso de forma predeterminada), lo que permite a los usuarios enviar y recibir Bitcoin al instante y con tarifas bajas.
 
 ## Recibir en Lightning con Chivo
 * Cuando se recibe Chivo muestra el método on-chain de forma predeterminada, lo cual puede ser costoso y lento.

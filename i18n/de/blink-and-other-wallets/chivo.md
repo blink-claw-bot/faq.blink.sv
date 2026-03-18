@@ -1,5 +1,5 @@
 # Chivo wallet
-Die Chivo Wallet ist die offizielle Bitcoin Wallet von El Salvador. Es handelt sich um eine Custodial Wallet, die sowohl für Android- als auch für iOS-Geräte verfügbar ist. Die Wallet ist mit dem Chivo-Geldautomatennetzwerk integriert, das es Nutzern ermöglicht, Bargeld an jedem der über 200 Geldautomaten im ganzen Land abzuheben und einzuzahlen. Die Wallet unterstützt auch Lightning-Zahlungen (zeigt dies aber nicht standardmäßig an), was es den Nutzern ermöglicht, Bitcoin sofort und mit geringen Gebühren zu senden und zu empfangen.
+Die Chivo Wallet ist die offizielle Bitcoin Wallet von El Salvador. Sie ist sowohl für Android- als auch für iOS-Geräte verfügbar. Die Wallet ist mit dem Chivo-Geldautomatennetzwerk integriert, das es Nutzern ermöglicht, Bargeld an jedem der über 200 Geldautomaten im ganzen Land abzuheben und einzuzahlen. Die Wallet unterstützt auch Lightning-Zahlungen (zeigt dies aber nicht standardmäßig an), was es den Nutzern ermöglicht, Bitcoin sofort und mit geringen Gebühren zu senden und zu empfangen.
 
 ## Empfangen per Lightning mit Chivo
 * Beim Empfang zeigt Chivo standardmäßig die On-Chain-Methode an, die teuer und langsam sein kann.
