@@ -7,6 +7,6 @@
 * قد يكون متجر تطبيقاتك مسجلاً في دولة لا تسمح بتنزيل أو تثبيت أو استخدام هذا النوع من المحافظ بسبب اللوائح الداخلية. من أمثلة هذه الدول الولايات المتحدة الأمريكية وكوريا الشمالية. تجد القائمة الكاملة في هذه الإجابة: [ما هي الدول التي لا يمكنها تنزيل وتفعيل Blink؟](https://faq.blink.sv/creating-a-blink-account/which-countries-are-unable-to-download-and-activate-blink)
 * في بعض هواتف Huawei، قد تحتاج إلى تثبيت خدمات Google Play ومتجر Google Play قبل أن تتمكن من تنزيل التطبيق.
 
-يمكن لمستخدمي أنظمة GrapheneOS وCalyxOS وLineageOS وأجهزة Android الأخرى [تنزيل وتثبيت Blink مباشرة عبر APK](https://github.com/GaloyMoney/blink-mobile/releases).
+يمكن لمستخدمي أنظمة GrapheneOS وCalyxOS وLineageOS وأجهزة Android الأخرى [تنزيل وتثبيت Blink مباشرة عبر APK](https://github.com/blinkbitcoin/blink-mobile/releases).
 
 يرجى ملاحظة أن توفر التطبيق قد يختلف حسب موقعك وجهازك، لذا فمن الأفضل دائمًا التحقق من متجر التطبيقات أولاً.
